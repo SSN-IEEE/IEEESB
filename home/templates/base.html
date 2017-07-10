@@ -1,0 +1,79 @@
+{% load staticfiles %}
+<!DOCTYPE HTML>
+
+<html>
+	<head>
+		<title>SSN IEEE</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1" />
+		<!--[if lte IE 8]><script src="{% static 'assets/js/ie/html5shiv.js' %}"></script><![endif]-->
+		<link rel="stylesheet" href="{% static 'assets/css/main.css' %}" />
+
+		<!--[if lte IE 8]><link rel="stylesheet" href="assets/css/ie8.css" /><![endif]-->
+		<!--[if lte IE 9]><link rel="stylesheet" href="assets/css/ie9.css" /><![endif]-->
+	</head>
+	<body class="index">
+         <div id="page-wrapper">
+
+			<!-- Header -->
+				<header id="header" class="alt">
+					<h1 id="logo"><a href="#">SSN IEEE Student Branch</a></h1>
+					<nav id="nav">
+						<ul>
+							<li class="current"><a href="index.html">Home</a></li>
+							<li><a href="index.html">About</a></li>
+							<li class="submenu">
+								<a href="#">Events</a>
+								<ul>
+									<li><a href="left-sidebar.html">Upcoming Events</a></li>
+									<li><a href="right-sidebar.html">Past Events</a></li>
+								</ul>
+							</li>
+							<li><a href="#">Gallery</a></li>
+							<li><a href="#">Contact</a></li>
+						</ul>
+					</nav>
+				</header>
+
+			<!-- Banner -->
+
+
+			<!-- Main -->
+            {% block content %}
+            {% endblock %}
+			<!-- CTA -->
+
+
+			<!-- Footer -->
+				<footer id="footer">
+
+					<ul class="icons">
+						<li><a href="#" class="icon circle fa-facebook"><span class="label">Facebook</span></a></li>
+						<li><a href="#" class="icon circle fa-google-plus"><span class="label">Google+</span></a></li>
+						<li><a href="https://github.com/SSN-IEEE" class="icon circle fa-github"><span class="label">Github</span></a></li>
+					</ul>
+
+					<ul class="copyright">
+						<li>&copy; SSN IEEE 2017</li>
+					</ul>
+
+				</footer>
+
+		</div>
+
+		<!-- Scripts -->
+			<script src="{% static 'assets/js/jquery.min.js' %}"></script>
+			<script src="{% static 'assets/js/jquery.dropotron.min.js' %}"></script>
+			<script src="{% static 'assets/js/jquery.scrolly.min.js' %}"></script>
+			<script src="{% static 'assets/js/jquery.scrollgress.min.js' %}"></script>
+			<script src="{% static 'assets/js/skel.min.js' %}"></script>
+			<script src="{% static 'assets/js/util.js' %}"></script>
+			<script src="{% static 'assets/js/main.js' %}"></script>
+            <script src="{% static 'assets/other/bootstrap/js/bootstrap.js' %}"></script>
+            <script src="{% static 'assets/other/marquee/jquery.marquee.js' %}"></script>
+            <script src="{% static 'assets/js/home.js' %}"></script>
+        <!-- css -->
+            <link type="text/css" href="{% static 'assets/other/bootstrap/css/bootstrap.css' %}">
+
+	</body>
+</html>

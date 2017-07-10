@@ -1,0 +1,167 @@
+{% extends 'base.html' %}
+{% load staticfiles %}
+{% block content %}
+                <section id="banner">
+					<div class="inner">
+
+						<header>
+							<h2>SSN IEEE Student Branch</h2>
+						</header>
+						<p>Welcome to SSN IEEE Student Branch
+						<footer>
+							<ul class="buttons vertical">
+								<li><a href="#main" class="button fit scrolly">Dive In</a></li>
+							</ul>
+						</footer>
+
+					</div>
+
+				</section>
+        <article id="main">
+                    <div class="row">
+                        <div class="col col-sm-1 col-md-2 col-lg-2 col-xs-1 col-xl-2">
+
+                        </div>
+                        <div class="col col-sm-10 sol-md-8 col-lg-8 colxs-10 col-xl-8">
+                            <video controls poster="{% static 'assets/images/banner.png' %}">
+                        <source src="{% static 'assets/video/IEEE -- Promo Video.mp4' %}" type='video/mp4'>
+                            </video>
+                        </div>
+                        <div class="col col-sm-1 col-md-2 col-lg-2 col-xs-1 col-xl-2">
+
+                        </div>
+
+                    </div>
+
+                    <header class="special container">
+                        <h2><strong>About SSN</strong></h2>
+						<p>SSN Institutions, founded by Dr. Shiv Nadar, Chairman, HCL Technologies,
+                            stands out as a premier center of higher learning with a mission of pursuing
+                            excellence in education and research. The institutions, with their diverse
+                            and dynamic community of students offer a distinctive combination of some
+                            of the finest graduate, undergraduate and research programs, accomplished faculty,
+                            world class facilities and a residential campus set on a sprawling 250 acres of
+                            sylvan surroundings.</p>
+                        <br>
+                        <br>
+                        <h2><strong>About IEEE</strong></h2>
+                        <p>IEEE is the world’s largest technical professional organization dedicated to advancing
+                            technology for the benefit of humanity.</p>
+					</header>
+
+					<!-- One -->
+						<section class="wrapper style2 container special-alt">
+							<div class="row 50%">
+								<div class="12u 12u(narrower)">
+
+									<header>
+										<h2 style="text-align: center;">Upcoming Events</h2>
+									</header>
+									<div class="marquee">
+                                        <ul>
+                                            <li>
+                                                <header style="text-align: center"><h1>Android Workshop</h1></header>
+                                                <p></p>
+                                            </li>
+
+                                        </ul>
+                                    </div>
+                                    <br><br><br>
+                                    <footer style="text-align: center;">
+										<ul class="buttons">
+											<li><a href="#" class="button">Find Out More</a></li>
+										</ul>
+									</footer>
+
+								</div>
+							</div>
+						</section>
+
+					<!-- Two -->
+
+					<!-- Three -->
+						<section style="margin-top: -8%;" class="wrapper style3 container special">
+
+							<header class="major">
+								<h2>QUICK LINKS</h2>
+							</header>
+
+							<div class="row">
+								<div class="4u 12u(narrower)">
+
+									<section>
+										<header>
+                                            <ul class="buttons quicklinks">
+									        <li><a href="https://www.ieee.org/index.html" target="_blank" class="button">IEEE Official Site</a></li>
+								            </ul>
+										</header>
+										<p>Get to know IEEE by visiting their official site.</p>
+									</section>
+                                    <br>
+                                    <section>
+										<header>
+                                            <ul class="buttons quicklinks">
+									        <li><a href="http://spectrum.ieee.org/" target="_blank" class="button">IEEE Spectrum</a></li>
+								            </ul>
+										</header>
+										<p>Know more about the flagship magazine by IEEE.</p>
+									</section>
+
+
+								</div>
+								<div class="4u 12u(narrower)">
+                                    <section>
+										<header>
+                                            <ul class="buttons quicklinks">
+									        <li><a href="https://www.ieee.org/membership_services/membership/join/index.html?WT.mc_id=hc_join" target="_blank" class="button">Join IEEE</a></li>
+								            </ul>
+										</header>
+										<p>Join IEEE today and make a difference.</p>
+									</section>
+                                    <br>
+
+                                    <section>
+										<header>
+                                            <ul class="buttons quicklinks">
+									        <li><a href="http://sites.ieee.org/madras/" target="_blank" class="button">IEEE Madras Section</a></li>
+								            </ul>
+										</header>
+										<p>Visit the home page of one of the most active section of IEEE.</p>
+									</section>
+
+
+								</div>
+                                <div class="4u 12u(narrower)">
+
+									<section>
+										<header>
+                                            <ul class="buttons quicklinks">
+									        <li><a href="http://ieeexplore.ieee.org/Xplore/home.jsp" target="_blank" class="button">IEEE Xplore</a></li>
+								            </ul>
+										</header>
+										<p>Visit IEEE's Digital Library.</p>
+									</section>
+                                    <br><br>
+                                    <section>
+										<header>
+                                            <ul class="buttons quicklinks">
+									        <li><a href="https://www.ieee.org/standards/index.html" target="_blank" class="button">IEEE Standards</a></li>
+								            </ul>
+										</header>
+										<p>Know more about IEEE.</p>
+									</section>
+
+								</div>
+							</div>
+
+							<footer class="major">
+								<ul class="buttons">
+									<li><a href="http://www.ieee.org/sitemap.html?WT.mc_id=mn_smap" target="_blank" class="button">See More</a></li>
+								</ul>
+							</footer>
+
+						</section>
+
+				</article>
+
+{% endblock %}

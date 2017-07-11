@@ -1,3 +1,12 @@
 from django.db import models
 
-# Create your models here.
+class events(models.Model):
+    name = models.CharField(max_length=500)
+    date = models.DateField()
+    type = models.IntegerField()
+    coord = models.CharField(max_length=500)
+    host = models.IntegerField()
+    stream = models.IntegerField()
+    speakers = models.CharField(max_length=500)
+    no_of_participants = models.IntegerField()
+

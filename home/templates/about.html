@@ -90,4 +90,7 @@
           </table>
       </header>
     </article>
+    {% for item in events %}
+        <div>{{ item.name }}</div>
+    {% endfor %}
 {% endblock %}

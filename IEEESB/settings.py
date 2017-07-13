@@ -101,7 +101,9 @@ AUTH_PASSWORD_VALIDATORS = [
     },
 ]
 
-
+ADMINS = (
+    ('Chandramowli', 'mowlijc@gmail.com'),
+)
 # Internationalization
 # https://docs.djangoproject.com/en/1.11/topics/i18n/
 

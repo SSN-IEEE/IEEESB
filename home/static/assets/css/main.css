@@ -1,13 +1,24 @@
 @import url("font-awesome.min.css");
 @import url("https://fonts.googleapis.com/css?family=Lato:300,400,900");
 
-		.marquee {
-	  width: 100%;
-	  overflow: hidden;
-	  background: transparent;
+	.marquee {
+		width: 60%;
+	  	overflow: hidden;
+	  	background: transparent;
+		margin-left: auto;
+		margin-right: auto;
 	}
 	.quicklinks{
 		color: #014c8c;
+	}
+	.marquee-header{
+		text-align: center;
+	}
+	.info_table{
+		line-height: 50px;
+		width: 50%;
+		margin-left: auto;
+		margin-right: auto;
 	}
 
 	.quicklinks:hover{
@@ -1671,8 +1682,6 @@
 	}
 
 		header.special:before, header.special:after {
-			border-bottom: solid 1.5px;
-			border-top: solid 1.5px;
 			content: '';
 			height: 7px;
 			opacity: 0.1;
@@ -2293,7 +2302,8 @@
 			animation: none;
 			background: transparent;
 			box-shadow: none;
-			color: #fff;
+			color: #000;
+			color: #000;
 			padding: 2em 2.5em;
 			position: absolute;
 		}
@@ -2403,8 +2413,7 @@
 
 	#banner {
 		background-attachment: scroll, scroll, scroll, fixed;
-		background-color: #00ffd2;
-		background-image: url("images/light-bl.svg"), url("images/light-br.svg"), url("images/overlay.png"), url("../../images/banner.jpg");
+		background-color: transparent;
 		background-position: bottom left, bottom right, top left, top center;
 		background-repeat: no-repeat, no-repeat, repeat, no-repeat;
 		background-size: 25em, 25em, auto, cover;
@@ -2423,8 +2432,8 @@
 			-webkit-animation-fill-mode: forwards;
 			-ms-animation-fill-mode: forwards;
 			animation-fill-mode: forwards;
-			background: rgba(52, 27, 43, 0.5);
-			color: #fff;
+			background: transparent;
+			color: #000;
 			display: inline-block;
 			opacity: 0;
 			padding: 3em;
@@ -2433,8 +2442,6 @@
 
 			#banner .inner header {
 				display: inline-block;
-				border-bottom: solid 2px;
-				border-top: solid 2px;
 				margin: 0 0 2em 0;
 				padding: 3px 0 3px 0;
 			}

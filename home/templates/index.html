@@ -2,15 +2,15 @@
 {% load staticfiles %}
 {% block content %}
                 <section id="banner">
-					<div class="inner">
+                	<div class="inner">
 
 						<header>
 							<h2>SSN IEEE Student Branch</h2>
 						</header>
-						<p>Welcome to SSN IEEE Student Branch
+						<p style="font-weight: bolder; font-size: larger;">Welcome to SSN IEEE Student Branch
 						<footer>
 							<ul class="buttons vertical">
-								<li><a href="#main" class="button fit scrolly">Dive In</a></li>
+								<li><a href="#main" class="button scrolly">Dive In</a></li>
 							</ul>
 						</footer>
 
@@ -65,10 +65,14 @@
 									</header>
 									<div class="marquee">
                                         <ul>
-                                            <li>
-                                                <header style="text-align: center"><h1>Android Workshop</h1></header>
-                                                <p></p>
-                                            </li>
+                                            {% for item in events %}
+                                                <li>
+                                                <header class="marquee-header"><h1>{{ item.name }}</h1></header>
+                                                <p>Date: {{ item.start_date }}</p>
+                                                <p>Department: {{ item.host }}</p>
+                                                </li>
+
+                                            {% endfor %}
 
                                         </ul>
                                     </div>

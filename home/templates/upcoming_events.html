@@ -1,0 +1,27 @@
+{% extends 'base.html' %}
+{% load staticfiles %}
+{% block content %}
+    <section id="banner">
+        <h2>Past Events</h2>
+    </section>
+    <table>
+        <thead>
+        <tr>
+            <td>S.No</td>
+            <td>Name</td>
+        </tr>
+        </thead>
+        <tbody>
+        {% for item in events %}
+            <tr>
+                <td>{{ item.id }}</td>
+                <td>{{ item.name }}</td>
+                <td>{{ item.coord }}</td>
+                <td>{{ item.start_date }}</td>
+                <td>{{ item.duration }}</td>
+            </tr>
+
+        {% endfor %}
+        </tbody>
+    </table>
+{% endblock %}

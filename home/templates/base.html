@@ -17,7 +17,9 @@
 
 			<!-- Header -->
 				<header id="header" class="alt">
-					<h1 id="logo"><img style="width: 10%; height: 10%;" src="{% static 'assets/logo/ieee_transparent.png' %}"></h1>
+					<h1 id="logo"><img style="margin-top: -1%; width: 10%; height: 10%;" src="{% static 'assets/logo/ieee_transparent.png' %}">
+                        <img style="margin-top: -1%; width: 6%; height: 5%;" src="{% static 'assets/logo/ssn_logo_blue_transparent.png' %}">
+                    </h1>
 					<nav id="nav" style="font-weight: bolder;">
 						<ul>
 							<li {% block home_active %}{% endblock %}><a href="{% block homelink1 %}{% endblock %}">Home</a></li>

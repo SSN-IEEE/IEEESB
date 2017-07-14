@@ -2304,12 +2304,12 @@
 			-webkit-animation: none;
 			-ms-animation: none;
 			animation: none;
-			background: transparent;
+			background: white;
 			box-shadow: none;
-			color: #000;
-			color: #000;
+			color: #0275d8;
 			padding: 2em 2.5em;
 			position: absolute;
+			height: 13%;
 		}
 
 			#header.alt nav {
@@ -2437,7 +2437,7 @@
 			-ms-animation-fill-mode: forwards;
 			animation-fill-mode: forwards;
 			background: transparent;
-			color: #000;
+			color: #fff;
 			display: inline-block;
 			opacity: 0;
 			padding: 3em;

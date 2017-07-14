@@ -15,8 +15,8 @@
 		text-align: center;
 	}
 	.info_table{
-		line-height: 50px;
-		width: 50%;
+		line-height: 60px;
+		width: 70%;
 		margin-left: auto;
 		margin-right: auto;
 	}
@@ -2016,6 +2016,7 @@
 
 	table {
 		width: 100%;
+		border: 1px solid black ;
 	}
 
 		table.default {
@@ -2260,6 +2261,9 @@
 
 				#header nav ul li.submenu > a {
 					text-decoration: none;
+				}
+				.submenu_content{
+					background-color: #AFEEEE;
 				}
 
 					#header nav ul li.submenu > a:before {

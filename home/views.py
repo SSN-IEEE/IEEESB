@@ -19,3 +19,9 @@ def past_events(request):
 def upcoming_events(request):
     event = events.objects.filter(start_date__gte = datetime.now()).order_by('start_date')
     return render_to_response('upcoming_events.html', {'events' : event})
+
+def contact(request):
+    return render(request, 'contact.html')
+
+def gallery(request):
+    return render(request, 'gallery.html')

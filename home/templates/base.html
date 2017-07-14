@@ -17,20 +17,20 @@
 
 			<!-- Header -->
 				<header id="header" class="alt">
-					<h1 id="logo"><a href="#">SSN IEEE Student Branch</a></h1>
+					<h1 id="logo"><a href="{% block homelink %}{% endblock %}">SSN IEEE Student Branch</a></h1>
 					<nav id="nav">
 						<ul>
-							<li class="current"><a href="index.html">Home</a></li>
-							<li><a href="index.html">About</a></li>
+							<li class="current"><a href="{% block homelink1 %}{% endblock %}">Home</a></li>
+							<li><a href="{% block about %}{% endblock %}">About</a></li>
 							<li class="submenu">
-								<a href="#">Events</a>
+								<a href="{% block upcoming %}{% endblock %}">Events</a>
 								<ul>
-									<li><a href="left-sidebar.html">Upcoming Events</a></li>
-									<li><a href="right-sidebar.html">Past Events</a></li>
+									<li class="submenu_content"><a href="{% block upcoming1 %}{% endblock %}">Upcoming Events</a></li>
+									<li class="submenu_content"><a href="{% block past %}{% endblock %}">Past Events</a></li>
 								</ul>
 							</li>
-							<li><a href="#">Gallery</a></li>
-							<li><a href="#">Contact</a></li>
+							<li><a href="{% block gallery %}{% endblock %}">Gallery</a></li>
+							<li><a href="{% block contact %}{% endblock %}">Contact</a></li>
 						</ul>
 					</nav>
 				</header>
@@ -66,16 +66,11 @@
 			<script src="{% static 'assets/js/jquery.dropotron.min.js' %}"></script>
 			<script src="{% static 'assets/js/jquery.scrolly.min.js' %}"></script>
 			<script src="{% static 'assets/js/jquery.scrollgress.min.js' %}"></script>
-            <link href="https://cdnjs.cloudflare.com/ajax/libs/tether/1.4.0/css/tether.css">
-            <script src="https://cdnjs.cloudflare.com/ajax/libs/tether/1.4.0/js/tether.js"></script>
-			<script src="{% static 'assets/js/skel.min.js' %}"></script>
+            <script src="{% static 'assets/js/skel.min.js' %}"></script>
 			<script src="{% static 'assets/js/util.js' %}"></script>
 			<script src="{% static 'assets/js/main.js' %}"></script>
-            <script src="{% static 'assets/other/bootstrap/js/bootstrap.js' %}"></script>
             <script src="{% static 'assets/other/marquee/jquery.marquee.js' %}"></script>
             <script src="{% static 'assets/js/home.js' %}"></script>
         <!-- css -->
-            <link type="text/css" href="{% static 'assets/other/bootstrap/css/bootstrap.css' %}">
-
-	</body>
+    </body>
 </html>

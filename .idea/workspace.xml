@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1783cc37-fde3-4c14-b0e5-28d4e1338ff9" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/home/templates/base.html" afterPath="$PROJECT_DIR$/home/templates/base.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/home/static/assets/images/back1.jpg" afterPath="$PROJECT_DIR$/home/static/assets/images/back1.jpg" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/home/templates/upcoming_events.html" afterPath="$PROJECT_DIR$/home/templates/upcoming_events.html" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -16,16 +15,18 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="upcoming_events.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="upcoming_events.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/home/templates/upcoming_events.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="232">
-              <caret line="58" column="36" lean-forward="false" selection-start-line="58" selection-start-column="36" selection-end-line="58" selection-end-column="36" />
+            <state relative-caret-position="85">
+              <caret line="56" column="69" lean-forward="true" selection-start-line="56" selection-start-column="69" selection-end-line="56" selection-end-column="69" />
               <folding>
-                <element signature="e#518#563#0#HTML" expanded="true" />
-                <element signature="e#816#848#0#HTML" expanded="true" />
-                <element signature="e#1343#1411#0#HTML" expanded="true" />
-                <element signature="e#2011#2079#0#HTML" expanded="true" />
+                <element signature="e#539#584#0#HTML" expanded="true" />
+                <element signature="e#835#865#0#HTML" expanded="true" />
+                <element signature="e#923#954#0#HTML" expanded="true" />
+                <element signature="e#1036#1068#0#HTML" expanded="true" />
+                <element signature="e#1564#1632#0#HTML" expanded="true" />
+                <element signature="e#2232#2300#0#HTML" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -65,10 +66,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="base.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="base.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/home/templates/base.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="161">
+            <state relative-caret-position="874">
               <caret line="52" column="45" lean-forward="false" selection-start-line="52" selection-start-column="45" selection-end-line="52" selection-end-column="45" />
               <folding />
             </state>
@@ -190,8 +191,8 @@
         <option value="$PROJECT_DIR$/home/templates/past_events.html" />
         <option value="$PROJECT_DIR$/home/templates/index.html" />
         <option value="$PROJECT_DIR$/home/static/assets/css/main.css" />
-        <option value="$PROJECT_DIR$/home/templates/upcoming_events.html" />
         <option value="$PROJECT_DIR$/home/templates/base.html" />
+        <option value="$PROJECT_DIR$/home/templates/upcoming_events.html" />
       </list>
     </option>
   </component>
@@ -979,24 +980,26 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/home/templates/upcoming_events.html">
+    <entry file="file://$PROJECT_DIR$/home/templates/base.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="232">
-          <caret line="58" column="36" lean-forward="false" selection-start-line="58" selection-start-column="36" selection-end-line="58" selection-end-column="36" />
-          <folding>
-            <element signature="e#518#563#0#HTML" expanded="true" />
-            <element signature="e#816#848#0#HTML" expanded="true" />
-            <element signature="e#1343#1411#0#HTML" expanded="true" />
-            <element signature="e#2011#2079#0#HTML" expanded="true" />
-          </folding>
+        <state relative-caret-position="874">
+          <caret line="52" column="45" lean-forward="false" selection-start-line="52" selection-start-column="45" selection-end-line="52" selection-end-column="45" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/home/templates/base.html">
+    <entry file="file://$PROJECT_DIR$/home/templates/upcoming_events.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="161">
-          <caret line="52" column="45" lean-forward="false" selection-start-line="52" selection-start-column="45" selection-end-line="52" selection-end-column="45" />
-          <folding />
+        <state relative-caret-position="85">
+          <caret line="56" column="69" lean-forward="true" selection-start-line="56" selection-start-column="69" selection-end-line="56" selection-end-column="69" />
+          <folding>
+            <element signature="e#539#584#0#HTML" expanded="true" />
+            <element signature="e#835#865#0#HTML" expanded="true" />
+            <element signature="e#923#954#0#HTML" expanded="true" />
+            <element signature="e#1036#1068#0#HTML" expanded="true" />
+            <element signature="e#1564#1632#0#HTML" expanded="true" />
+            <element signature="e#2232#2300#0#HTML" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

@@ -11,26 +11,55 @@
 {% block event_active %}class = "active"{% endblock %}
 {% block content %}
     <section id="banner">
-        <h2>Past Events</h2>
+        <h2 style="font-weight: bolder; font-size: 40px;">Upcoming Events</h2>
     </section>
-    <table>
-        <thead>
-        <tr>
-            <td>S.No</td>
-            <td>Name</td>
-        </tr>
-        </thead>
-        <tbody>
-        {% for item in events %}
-            <tr>
-                <td>{{ item.id }}</td>
-                <td>{{ item.name }}</td>
-                <td>{{ item.coord }}</td>
-                <td>{{ item.start_date }}</td>
-                <td>{{ item.duration }}</td>
-            </tr>
+      <article id="main">
+      <header class="special container">
+          <h2><strong>Technology Awarness Programme on <br> Artificial Intelligence and Machine Learning</strong></h2>
+          <br>
+          <img style="width: 80%; height: 60%;" src="{% static 'assets/images/events/1-cover.jpg' %}">
+          <p>
+          </p>
+          <br><br>
+          <h2><strong>Objectives of the Program</strong></h2>
+          <br>
+          <ul>
+              <li>To give exposure on the fundamental and advanced concepts in the field of AI and ML.</li>
+              <li>To motivate participants to do research in the area of AI and ML.</li>
+          </ul>
+          <h2><strong>Perks of the Program</strong></h2>
+          <br>
+          <ul style="list-style-type: circle; text-align: left; margin-left: 15%;">
+              <li>All the participants would get certificates.</li>
+              <li>The participants would get a opportunity to meet Industrialist and young Professionals from renowned companies and startups.</li>
+              <li>The participants who crack the problem statement would get
+                  internship in the field of Machine Learning and Artificial Intelligence.
+              </li>
+              <li>The sessions would be more demonstrative rather than theoretical.</li>
+          </ul>
+          <h2><strong>Outcomes of the Program</strong></h2>
+          <br>
+          <ul style="list-style-type: circle; text-align: left; margin-left: 15%;">
+              <li>Benefit students who want to pursue their career in AI and ML.</li>
+              <li>Insipire buddin Engineers and industry delegates to do innovative research work.
+              </li>
+              <li>The sessions would be more demonstrative rather than theoretical.</li>
+          </ul>
+          <br>
+          <h2><strong>Registration</strong></h2>
+          <br>
+          <p><strong>Register - <a target="_blank" href="https://in.explara.com/e/technology
+-awarness-programme-on-artificial-intelligence-and-machine-learning">HERE</a></strong></p>
+          <p><strong>IEEE Student Members - Rs. 300/-</strong></p>
+          <p><strong>Non-IEEE Student Members - Rs. 400/-</strong></p>
 
-        {% endfor %}
-        </tbody>
-    </table>
+          <p><strong>NOTE: Lunch and Snacks will be provided.</strong></p>
+          <br>
+          <h2><strong>Contact</strong></h2>
+          <p>Dr. T. Sree Sharmila - +91-9940582630</p>
+          <p>sreesharmilat@ssn.edu.in</p>
+          <p>Kavin D - +91-9688577787</p>
+          <p>Arjun Prasad - +91-9952048517</p>
+      </header>
+    </article>
 {% endblock %}

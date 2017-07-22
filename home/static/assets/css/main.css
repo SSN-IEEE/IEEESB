@@ -21,6 +21,11 @@
 		margin-left: auto;
 		margin-right: auto;
 	}
+	.brochure{
+		width: 80%;
+		height: auto;
+		text-align: center;
+	}
 
 	.quicklinks:hover{
 		color: #ff6e00;

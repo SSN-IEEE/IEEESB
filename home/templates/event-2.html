@@ -1,0 +1,56 @@
+{% extends 'base.html' %}
+{% load staticfiles %}
+{% block homelink %}../{% endblock %}
+{% block homelink1 %}../{% endblock %}
+{% block upcoming %}../upcoming_events{% endblock %}
+{% block upcoming1 %}../upcoming_events{% endblock %}
+{% block past %}../past_events{% endblock %}
+{% block about %}../about{% endblock %}
+{% block gallery%}../gallery{% endblock %}
+{% block contact %}../contact{% endblock %}
+{% block event_active %}class = "active"{% endblock %}
+{% block content %}
+    <section id="banner">
+    <br><br><br><br>
+        <h2 style="font-weight: bolder; font-size: 40px;">Upcoming Events</h2>
+    </section>
+      <article id="main">
+      <header class="special container">
+          <h2 style="margin-top: -9%;"><strong>TECHNOXIAN</strong></h2>
+
+          <img style="width: 80%; height: 60%;" src="{% static 'assets/images/events/2-cover.jpg' %}">
+          <p>
+              Aug 30, 31 2017 - Workshop. <br>
+              Sept 1 2017 - District Level Championship.
+          </p>
+
+          
+          <h2><strong>About the Program</strong></h2>
+          <br>
+          <p>Technoxian organizes workshops at different Educational Institutions. Competitions are
+          held on different zones for students to be a part. Grab a chance to be the winner of different
+          genres of Engineering Championship!</p>
+          <p>For more info click <a target="_blank" href="https://drive.google.com/open?id=0BxkgRAaeUe12STZwbGdqQVdiUmM">here.</a> </p>
+          <h2><strong>Perks of the Program</strong></h2>
+          <br>
+          <ul style="list-style-type: circle; text-align: left; margin-left: 25%;">
+              <li>Winners will get a cash prize of Rs. 50,000/-</li>
+              <li>Participants would get certificates from Ministry of Science & Tech and AIRC.</li>
+              <li>Students attending workshop need not register for the contest.</li>
+          </ul>
+
+          <h2><strong><a>Registration</a></strong></h2>
+          <br>
+          <p><strong>Rs. 1500/- per person.</strong></p>
+          <p><strong>On Spot Registration.</strong></p>
+
+          <p><strong>NOTE: Lunch and Snacks will be provided on the days of Workshop.</strong></p>
+          <p><strong>Kit would be provided for a team of 4-5 members.</strong></p>
+          <br>
+
+          <h2><strong>Contact</strong></h2>
+          <p>Kavin D - +91-9688577787</p>
+          <p>Arjun Prasad - +91-9952048517</p>
+      </header>
+    </article>
+{% endblock %}

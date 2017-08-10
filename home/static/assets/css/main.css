@@ -16,10 +16,13 @@
 		text-align: center;
 	}
 	.info_table{
-		line-height: 60px;
 		width: 70%;
 		margin-left: auto;
 		margin-right: auto;
+		box-shadow: 0px 4px 8px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.18);
+	}
+	.bold_info{
+		font-weight: bolder;
 	}
 	.brochure{
 		width: 80%;

@@ -1,0 +1,120 @@
+body{
+    color: #000;
+    margin: 60px 20px 0px 20px;
+}
+.navbar-brand{
+    font-family: 'Lobster', cursive;
+    font-size: 30px;
+}
+.nav-content{
+    margin: 0px 30px 0px 30px;
+}
+.nav-button a{
+    color: #38ff26;
+}
+.nav-button{
+    margin: 10px 10px 10px 10px;
+    border-style: solid;
+    border-color: #38ff26;
+}
+.navbar-nav{
+      float: right;
+}
+.nav-button:hover{
+    background-color: #38ff26;
+    color: #fff;
+}
+.nav-button:hover a{
+    color: #FFFFFF;
+}
+#heading{
+    font-size: 300%;
+    text-align: center;
+}
+.fields{
+    height: 30px;
+    border-radius: 8%;
+}
+#heading1{
+    font-family: 'Lobster', cursive;
+    font-size: 35px;
+}
+#content-text{
+    font-size: 16px;
+    text-align: center;
+}
+.select-btn{
+    margin: 30px 20px 0px 20px;
+    text-align: center;
+}
+.twitter-btn{
+    border-style: solid;
+    border-color: #0084b4;
+    background-color: #FFFFFF;
+    color: #0084b4;
+}
+.insta-btn{
+    border-style: solid;
+    border-color: #fb3958;
+    background-color: #ffffff;
+    color: #fb3958;
+}
+.insta-btn:hover, .insta-btn.selected{
+    border-style: solid;
+    border-color: #ffffff;
+    background-color: #fb3958;
+    color: #ffffff;
+}
+.twitter-btn:hover, .twitter-btn.selected{
+    border-style: solid;
+    border-color: #ffffff;
+    background-color: #0084b4;
+    color: #ffffff;
+
+}
+.reg-form{
+    background-color: #ffc838;
+    color: #000000;
+    margin-top: 7%;
+    text-align: center;
+    border-radius: 10%;
+}
+.navigation{
+    font-size: larger;
+    color: orangered;
+
+}
+.nav-pills{
+    border-radius: 5%;
+    background-color: transparent;
+}
+.nav-pills li{
+    border: 1px solid black;
+    border-radius: 5%;
+}
+.logout{
+    float: right;
+    margin-top: 3%;
+    background-color: #c9302c;
+}
+a:hover
+{
+    color: #000000;
+    text-decoration: none;
+}
+a{
+    color: #000000;
+}
+.search_area{
+    text-align: left;
+}
+.search_text{
+    color: black;
+}
+.navbar-default{
+    background-color: #FFFFFF;
+    box-shadow: 2px 2px 5px #000000;
+}
+.active{
+    color: #000000;
+}

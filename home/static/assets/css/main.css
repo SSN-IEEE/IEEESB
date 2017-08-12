@@ -12,6 +12,9 @@
 	.quicklinks{
 		color: #014c8c;
 	}
+	.marquee-center{
+		text-align: center;
+	}
 	.marquee-header{
 		text-align: center;
 	}

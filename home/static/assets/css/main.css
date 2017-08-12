@@ -2451,6 +2451,7 @@
 			animation-fill-mode: forwards;
 			background: transparent;
 			color: #fff;
+			text-shadow: 2px 2px #003893;
 			display: inline-block;
 			opacity: 0;
 			padding: 3em;

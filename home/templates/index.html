@@ -10,6 +10,7 @@
 {% block contact %}/contact{% endblock %}
 {% block home_active %}class = "active"{% endblock %}
 {% block content %}
+    <div style="background-repeat: no-repeat; opacity: 0.8; background-image: url('{% static 'assets/images/back2.jpg' %}'); background-size: 100% 15%;" id="page-wrapper">
                 <section id="banner">
                 	<div class="inner">
 
@@ -74,7 +75,7 @@
 										<h2 style="text-align: center; font-weight: bolder; font-size: larger;">Upcoming Events</h2>
 									</header>
 									<div class="marquee">
-                                        <ul>
+                                        <ol>
                                             {% for item in events %}
                                                 <li>
                                                 <header class="marquee-header"><h1>{{ item.name }}</h1></header>
@@ -92,7 +93,7 @@
 
                                             {% endfor %}
 
-                                        </ul>
+                                        </ol>
                                     </div>
                                     <br><br><br>
                                     <footer style="text-align: center;">
@@ -190,5 +191,5 @@
 						</section>
 
 				</article>
-
+    </div>
 {% endblock %}

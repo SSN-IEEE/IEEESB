@@ -5,7 +5,7 @@ from . models import events
 # Create your views here.
 
 def index(request):
-    event = events.objects.filter(start_date__lte=datetime.now()).order_by('start_date')[:5]
+    event = events.objects.filter(start_date__gte=datetime.now()).order_by('start_date')[:5]
     return render_to_response('index.html', {'events': event})
 
 def about(request):

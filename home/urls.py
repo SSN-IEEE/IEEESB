@@ -9,6 +9,6 @@ urlpatterns = [
     url(r'^past_events$', views.past_events, name='past_events'),
     url(r'^upcoming_events$', views.upcoming_events, name='upcoming_events'),
     url(r'^contact$', views.contact, name='contact'),
-    url(r'^gallery$', views.gallery, name='gallery'),
+    url(r'^gallery$', views.gallery_images, name='gallery_images'),
     url(r'^upcoming_events/2$', views.event_2, name='event_2'),
 ]

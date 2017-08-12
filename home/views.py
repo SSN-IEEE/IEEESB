@@ -1,7 +1,8 @@
 from datetime import date, datetime
 
 from django.shortcuts import render, render_to_response
-from . models import events
+from .models import events
+from .models import gallery
 # Create your views here.
 
 def index(request):
@@ -23,8 +24,8 @@ def upcoming_events(request):
 def contact(request):
     return render(request, 'contact.html')
 
-def gallery(request):
-    return render(request, 'gallery.html')
+def gallery_images(request):
+    return render(request, 'gallery.html', {'images':gallery.objects.all()})
 
 def event_2(request):
     return render(request, 'event-2.html')

@@ -17,6 +17,7 @@
 	}
 	.marquee-header{
 		text-align: center;
+		font-weight: 900;
 	}
 	.info_table{
 		width: 70%;
@@ -46,9 +47,9 @@
 		vertical-align: baseline;
 	}
     video{
-        width: 80%;
+        width: 60%;
         height: 60%;
-        margin-left: 10%;
+        margin-left: 0%;
     }
 
 	article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section {
@@ -2138,12 +2139,13 @@
 		}
 
 		.wrapper.style2 {
-			background-color: #83d3c9;
 			background-image: url("images/light-bl.svg"), url("images/light-br.svg");
 			background-position: bottom left, bottom right;
 			background-repeat: no-repeat, no-repeat;
 			background-size: 25em, 25em;
 			color: #000000;
+			box-shadow: 0px 4px 8px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.18);
+
 		}
 
 			.wrapper.style2 .button:hover {
@@ -2450,8 +2452,7 @@
 			-ms-animation-fill-mode: forwards;
 			animation-fill-mode: forwards;
 			background: transparent;
-			color: #fff;
-			text-shadow: 2px 2px #003893;
+			color: #000;
 			display: inline-block;
 			opacity: 0;
 			padding: 3em;
@@ -2500,6 +2501,7 @@
 		background-repeat: no-repeat;
 		background-size: 25em;
 		padding: 7em 0;
+		margin-top: 300px;
 	}
 
 		#main > :last-child {

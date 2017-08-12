@@ -10,7 +10,7 @@
 {% block contact %}/contact{% endblock %}
 {% block home_active %}class = "active"{% endblock %}
 {% block content %}
-    <div style="background-repeat: no-repeat; opacity: 0.8; background-image: url('{% static 'assets/images/back2.jpg' %}'); background-size: 100% 15%;" id="page-wrapper">
+    <div style="background-repeat: no-repeat; opacity: 0.65; background-image: url('{% static 'assets/images/back2.jpg' %}'); background-size: contain;" id="page-wrapper">
                 <section id="banner">
                 	<div class="inner">
 
@@ -19,7 +19,6 @@
 						</header>
 						<p style="font-weight: bolder; font-size: 25px;">Welcome to SSN IEEE Student Branch
 						<footer>
-                            <br><br><br><br>
 							<ul class="buttons vertical">
 								<li><a href="#main" class="button scrolly">Dive In</a></li>
 							</ul>
@@ -72,9 +71,9 @@
 								<div class="12u 12u(narrower)">
 
 									<header>
-										<h2 style="text-align: center; font-weight: bolder; font-size: larger;">Upcoming Events</h2>
+										<h2 style="text-align: center; font-weight: 900; font-size: larger;">Upcoming Events</h2>
 									</header>
-									<div class="marquee">
+									<div class="marquee" style="font-weight: 900;">
                                         <ol>
                                             {% for item in events %}
                                                 <li>

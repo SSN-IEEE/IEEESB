@@ -15,7 +15,7 @@ class events(models.Model):
     scope = models.CharField(max_length=1000, default='NIL')
     objective = models.CharField(max_length=1000, default='NIL')
     perks = models.CharField(max_length=1000, default='NIL')
-    registration_link = models.CharField(max_length=100, default='NIL')
+    registration_link = models.CharField(max_length=1000, default='NIL')
     registration_fee_ieee = models.FloatField(default=-1)
     registration_fee_non_ieee = models.FloatField(default=-1)
     note = models.CharField(max_length=1000, default='NIL')

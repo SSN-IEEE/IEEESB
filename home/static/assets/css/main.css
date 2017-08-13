@@ -1,6 +1,9 @@
 @import url("font-awesome.min.css");
 @import url("https://fonts.googleapis.com/css?family=Lato:300,400,900");
-
+	p{
+		text-align: justify;
+    text-justify: inter-word;
+	}
 	.marquee {
 		width: 80%;
 		height: auto;
@@ -2144,7 +2147,7 @@
 			background-repeat: no-repeat, no-repeat;
 			background-size: 25em, 25em;
 			color: #000000;
-			box-shadow: 0px 4px 8px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.18);
+			box-shadow: 0px 4px 8px 0 rgba(1,0,2,0.2), 0 6px 20px 0 rgba(4,0,1,0.18);
 
 		}
 

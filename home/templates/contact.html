@@ -1,4 +1,5 @@
 {% extends 'base.html' %}
+{% load staticfiles %}
 {% block homelink %}../{% endblock %}
 {% block homelink1 %}../{% endblock %}
 {% block upcoming %}../upcoming_events{% endblock %}
@@ -9,7 +10,14 @@
 {% block contact %}../contact{% endblock %}
 {% block contact_active %}class = "active"{% endblock %}
 {% block content %}
-    <section id="banner">
-        <h2>Contact</h2>
+    <section style="background-repeat: no-repeat; opacity: 0.65; background-size: cover; background-image: url('{% static 'assets/images/back3.jpg' %}');
+     " id="banner">
+                    <div class="inner">
+
+						<header>
+							<h2>Contact</h2>
+						</header>
+					</div>
+
     </section>
 {% endblock %}

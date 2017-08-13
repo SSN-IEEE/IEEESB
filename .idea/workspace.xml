@@ -2,16 +2,67 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1783cc37-fde3-4c14-b0e5-28d4e1338ff9" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/home/static/assets/gallery/16.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/home/static/assets/gallery/17.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/home/static/assets/gallery/18.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/home/static/assets/gallery/19.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/home/static/assets/gallery/20.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/home/static/assets/gallery/21.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/home/static/assets/gallery/22.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/home/static/assets/gallery/23.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/home/static/assets/gallery/24.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/home/static/assets/gallery/25.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/home/static/assets/gallery/26.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/home/static/assets/gallery/27.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/home/static/assets/gallery/28.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/home/static/assets/gallery/29.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/home/static/assets/gallery/30.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/home/static/assets/gallery/31.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/home/static/assets/gallery/32.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/home/static/assets/gallery/33.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/home/static/assets/gallery/34.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/home/static/assets/gallery/35.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/home/static/assets/gallery/36.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/home/static/assets/gallery/37.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/home/static/assets/gallery/38.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/home/static/assets/gallery/39.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/home/static/assets/gallery/40.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/home/static/assets/gallery/41.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/home/static/assets/gallery/42.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/home/static/assets/gallery/43.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/home/static/assets/gallery/44.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/home/static/assets/gallery/45.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/home/static/assets/gallery/46.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/home/static/assets/gallery/47.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/home/static/assets/gallery/48.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/home/static/assets/gallery/49.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/home/static/assets/gallery/50.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/home/static/assets/gallery/51.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/home/static/assets/gallery/52.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/home/static/assets/gallery/53.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/home/static/assets/gallery/54.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/home/static/assets/gallery/55.jpg" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/db.sqlite3" afterPath="$PROJECT_DIR$/db.sqlite3" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/home/static/assets/gallery/1.jpg" afterPath="$PROJECT_DIR$/home/static/assets/gallery/1.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/home/static/assets/gallery/10.jpg" afterPath="$PROJECT_DIR$/home/static/assets/gallery/10.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/home/static/assets/gallery/11.jpg" afterPath="$PROJECT_DIR$/home/static/assets/gallery/11.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/home/static/assets/gallery/12.jpg" afterPath="$PROJECT_DIR$/home/static/assets/gallery/12.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/home/static/assets/gallery/13.jpg" afterPath="$PROJECT_DIR$/home/static/assets/gallery/13.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/home/static/assets/gallery/14.jpg" afterPath="$PROJECT_DIR$/home/static/assets/gallery/14.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/home/static/assets/gallery/15.jpg" afterPath="$PROJECT_DIR$/home/static/assets/gallery/15.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/home/static/assets/gallery/2.jpg" afterPath="$PROJECT_DIR$/home/static/assets/gallery/2.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/home/static/assets/gallery/7.jpg" afterPath="$PROJECT_DIR$/home/static/assets/gallery/7.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/home/static/assets/gallery/8.jpg" afterPath="$PROJECT_DIR$/home/static/assets/gallery/8.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/home/static/assets/gallery/9.jpg" afterPath="$PROJECT_DIR$/home/static/assets/gallery/9.jpg" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/home/admin.py" afterPath="$PROJECT_DIR$/home/admin.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/home/models.py" afterPath="$PROJECT_DIR$/home/models.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/home/static/assets/css/main.css" afterPath="$PROJECT_DIR$/home/static/assets/css/main.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/home/templates/about.html" afterPath="$PROJECT_DIR$/home/templates/about.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/home/templates/base.html" afterPath="$PROJECT_DIR$/home/templates/base.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/home/templates/contact.html" afterPath="$PROJECT_DIR$/home/templates/contact.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/home/templates/gallery.html" afterPath="$PROJECT_DIR$/home/templates/gallery.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/home/templates/index.html" afterPath="$PROJECT_DIR$/home/templates/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/home/urls.py" afterPath="$PROJECT_DIR$/home/urls.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/home/views.py" afterPath="$PROJECT_DIR$/home/views.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/home/templates/past_events.html" afterPath="$PROJECT_DIR$/home/templates/past_events.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/home/templates/upcoming_events.html" afterPath="$PROJECT_DIR$/home/templates/upcoming_events.html" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -26,34 +77,22 @@
       <file leaf-file-name="upcoming_events.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/home/templates/upcoming_events.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1044">
-              <caret line="58" column="0" lean-forward="false" selection-start-line="58" selection-start-column="0" selection-end-line="58" selection-end-column="0" />
-              <folding />
+            <state relative-caret-position="-94">
+              <caret line="17" column="47" lean-forward="false" selection-start-line="17" selection-start-column="47" selection-end-line="17" selection-end-column="47" />
+              <folding>
+                <element signature="e#494#641#0#HTML" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="urls.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/home/urls.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="11" column="64" lean-forward="false" selection-start-line="11" selection-start-column="64" selection-end-line="11" selection-end-column="64" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/home/templates/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="56">
-              <caret line="75" column="81" lean-forward="false" selection-start-line="75" selection-start-column="81" selection-end-line="75" selection-end-column="81" />
+            <state relative-caret-position="156">
+              <caret line="62" column="26" lean-forward="false" selection-start-line="62" selection-start-column="26" selection-end-line="62" selection-end-column="26" />
               <folding>
                 <element signature="e#472#615#0#HTML" expanded="true" />
-                <element signature="e#791#836#0#HTML" expanded="true" />
-                <element signature="e#3670#3734#0#HTML" expanded="true" />
-                <element signature="e#3805#3830#0#HTML" expanded="true" />
-                <element signature="e#5247#5274#0#HTML" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -62,11 +101,9 @@
       <file leaf-file-name="base.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/home/templates/base.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1368">
-              <caret line="76" column="20" lean-forward="false" selection-start-line="76" selection-start-column="20" selection-end-line="76" selection-end-column="20" />
-              <folding>
-                <element signature="n#style#0;n#img#0;n#h1#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-              </folding>
+            <state relative-caret-position="126">
+              <caret line="78" column="84" lean-forward="false" selection-start-line="78" selection-start-column="84" selection-end-line="78" selection-end-column="84" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -81,22 +118,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="admin.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/home/admin.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="36">
-              <caret line="2" column="27" lean-forward="false" selection-start-line="2" selection-start-column="27" selection-end-line="2" selection-end-column="27" />
-              <folding>
-                <element signature="e#0#32#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="views.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/home/views.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="398">
+            <state relative-caret-position="468">
               <caret line="26" column="18" lean-forward="false" selection-start-line="26" selection-start-column="18" selection-end-line="26" selection-end-column="18" />
               <folding>
                 <element signature="e#0#35#0" expanded="true" />
@@ -105,23 +130,39 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="about.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/home/templates/about.html">
+      <file leaf-file-name="past_events.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/home/templates/past_events.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="906">
-              <caret line="102" column="39" lean-forward="false" selection-start-line="102" selection-start-column="39" selection-end-line="102" selection-end-column="39" />
-              <folding />
+            <state relative-caret-position="86">
+              <caret line="13" column="4" lean-forward="false" selection-start-line="13" selection-start-column="4" selection-end-line="22" selection-end-column="14" />
+              <folding>
+                <element signature="e#494#641#0#HTML" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="gallery.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="about.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/home/templates/about.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="864">
+              <caret line="48" column="33" lean-forward="false" selection-start-line="48" selection-start-column="0" selection-end-line="49" selection-end-column="0" />
+              <folding>
+                <element signature="e#493#640#0#HTML" expanded="true" />
+                <element signature="e#799#824#0#HTML" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="gallery.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/home/templates/gallery.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="378">
-              <caret line="21" column="0" lean-forward="false" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+            <state relative-caret-position="306">
+              <caret line="29" column="10" lean-forward="false" selection-start-line="29" selection-start-column="10" selection-end-line="29" selection-end-column="10" />
               <folding>
-                <element signature="e#667#703#0#HTML" expanded="true" />
+                <element signature="e#495#642#0#HTML" expanded="true" />
+                <element signature="e#806#832#0#HTML" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -130,9 +171,21 @@
       <file leaf-file-name="main.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/home/static/assets/css/main.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="199">
-              <caret line="51" column="21" lean-forward="false" selection-start-line="51" selection-start-column="21" selection-end-line="51" selection-end-column="21" />
+            <state relative-caret-position="72">
+              <caret line="4" column="29" lean-forward="false" selection-start-line="4" selection-start-column="29" selection-end-line="4" selection-end-column="29" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="contact.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/home/templates/contact.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="306">
+              <caret line="17" column="39" lean-forward="false" selection-start-line="17" selection-start-column="39" selection-end-line="17" selection-end-column="39" />
+              <folding>
+                <element signature="e#495#642#0#HTML" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -150,8 +203,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>container</find>
-      <find>special</find>
       <find>andr</find>
       <find>banner</find>
       <find>header</find>
@@ -173,13 +224,15 @@
       <find>scroll</find>
       <find>main</find>
       <find>vertical</find>
-      <find>marquee</find>
       <find>info</find>
       <find>wrapper</find>
       <find>marquee-hea</find>
       <find>marqu</find>
       <find>video</find>
       <find>zoom</find>
+      <find>marquee</find>
+      <find>style2</find>
+      <find>ieee stan</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -192,19 +245,19 @@
         <option value="$PROJECT_DIR$/home/static/assets/js/home.js" />
         <option value="$PROJECT_DIR$/IEEESB/wsgi.py" />
         <option value="$PROJECT_DIR$/IEEESB/settings.py" />
-        <option value="$PROJECT_DIR$/home/templates/contact.html" />
-        <option value="$PROJECT_DIR$/home/templates/past_events.html" />
-        <option value="$PROJECT_DIR$/home/templates/upcoming_events.html" />
         <option value="$PROJECT_DIR$/home/templates/event-2.html" />
-        <option value="$PROJECT_DIR$/home/templates/about.html" />
         <option value="$PROJECT_DIR$/home/admin.py" />
         <option value="$PROJECT_DIR$/home/models.py" />
         <option value="$PROJECT_DIR$/home/views.py" />
         <option value="$PROJECT_DIR$/home/urls.py" />
-        <option value="$PROJECT_DIR$/home/templates/gallery.html" />
-        <option value="$PROJECT_DIR$/home/templates/base.html" />
-        <option value="$PROJECT_DIR$/home/static/assets/css/main.css" />
+        <option value="$PROJECT_DIR$/home/templates/past_events.html" />
+        <option value="$PROJECT_DIR$/home/templates/upcoming_events.html" />
+        <option value="$PROJECT_DIR$/home/templates/contact.html" />
         <option value="$PROJECT_DIR$/home/templates/index.html" />
+        <option value="$PROJECT_DIR$/home/static/assets/css/main.css" />
+        <option value="$PROJECT_DIR$/home/templates/about.html" />
+        <option value="$PROJECT_DIR$/home/templates/base.html" />
+        <option value="$PROJECT_DIR$/home/templates/gallery.html" />
       </list>
     </option>
   </component>
@@ -215,10 +268,9 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="161" />
-    <option name="y" value="71" />
-    <option name="width" value="1191" />
-    <option name="height" value="659" />
+    <option name="y" value="27" />
+    <option name="width" value="1366" />
+    <option name="height" value="741" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -236,6 +288,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
@@ -331,7 +384,6 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -573,16 +625,16 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="161" y="71" width="1191" height="659" extended-state="0" />
+    <frame x="0" y="27" width="1366" height="741" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20486985" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17862372" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.29245284" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.29245284" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -616,10 +668,6 @@
           <caret line="89" column="49" lean-forward="false" selection-start-line="89" selection-start-column="49" selection-end-line="89" selection-end-column="49" />
           <folding>
             <element signature="e#472#615#0#HTML" expanded="true" />
-            <element signature="e#791#836#0#HTML" expanded="true" />
-            <element signature="e#3670#3734#0#HTML" expanded="true" />
-            <element signature="e#3805#3830#0#HTML" expanded="true" />
-            <element signature="e#5247#5274#0#HTML" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -628,7 +676,10 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="95">
           <caret line="5" column="34" lean-forward="false" selection-start-line="5" selection-start-column="34" selection-end-line="5" selection-end-column="34" />
-          <folding />
+          <folding>
+            <element signature="e#493#640#0#HTML" expanded="true" />
+            <element signature="e#799#824#0#HTML" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -644,9 +695,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="608">
           <caret line="32" column="42" lean-forward="true" selection-start-line="32" selection-start-column="42" selection-end-line="32" selection-end-column="42" />
-          <folding>
-            <element signature="n#style#0;n#img#0;n#h1#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -700,9 +749,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="551">
           <caret line="29" column="60" lean-forward="true" selection-start-line="29" selection-start-column="60" selection-end-line="29" selection-end-column="60" />
-          <folding>
-            <element signature="n#style#0;n#img#0;n#h1#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -712,10 +759,6 @@
           <caret line="47" column="46" lean-forward="false" selection-start-line="47" selection-start-column="40" selection-end-line="47" selection-end-column="46" />
           <folding>
             <element signature="e#472#615#0#HTML" expanded="true" />
-            <element signature="e#791#836#0#HTML" expanded="true" />
-            <element signature="e#3670#3734#0#HTML" expanded="true" />
-            <element signature="e#3805#3830#0#HTML" expanded="true" />
-            <element signature="e#5247#5274#0#HTML" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -778,9 +821,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="266">
           <caret line="14" column="9" lean-forward="false" selection-start-line="14" selection-start-column="9" selection-end-line="14" selection-end-column="9" />
-          <folding>
-            <element signature="n#style#0;n#img#0;n#h1#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -798,10 +839,6 @@
           <caret line="19" column="27" lean-forward="true" selection-start-line="19" selection-start-column="27" selection-end-line="19" selection-end-column="27" />
           <folding>
             <element signature="e#472#615#0#HTML" expanded="true" />
-            <element signature="e#791#836#0#HTML" expanded="true" />
-            <element signature="e#3670#3734#0#HTML" expanded="true" />
-            <element signature="e#3805#3830#0#HTML" expanded="true" />
-            <element signature="e#5247#5274#0#HTML" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -858,10 +895,6 @@
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="e#472#615#0#HTML" expanded="true" />
-            <element signature="e#791#836#0#HTML" expanded="true" />
-            <element signature="e#3670#3734#0#HTML" expanded="true" />
-            <element signature="e#3805#3830#0#HTML" expanded="true" />
-            <element signature="e#5247#5274#0#HTML" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -870,9 +903,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="19" lean-forward="false" selection-start-line="0" selection-start-column="19" selection-end-line="0" selection-end-column="19" />
-          <folding>
-            <element signature="n#style#0;n#img#0;n#h1#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -933,14 +964,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/home/templates/contact.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="9" column="5" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/home/templates/event-2.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="252">
@@ -951,18 +974,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/home/templates/past_events.html">
+    <entry file="file://$PROJECT_DIR$/home/urls.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
-          <caret line="10" column="21" lean-forward="false" selection-start-line="10" selection-start-column="21" selection-end-line="10" selection-end-column="21" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/home/templates/upcoming_events.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1044">
-          <caret line="58" column="0" lean-forward="false" selection-start-line="58" selection-start-column="0" selection-end-line="58" selection-end-column="0" />
+          <caret line="11" column="64" lean-forward="false" selection-start-line="11" selection-start-column="64" selection-end-line="11" selection-end-column="64" />
           <folding />
         </state>
       </provider>
@@ -977,6 +992,75 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/home/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="468">
+          <caret line="26" column="18" lean-forward="false" selection-start-line="26" selection-start-column="18" selection-end-line="26" selection-end-column="18" />
+          <folding>
+            <element signature="e#0#35#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/home/templates/upcoming_events.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-94">
+          <caret line="17" column="47" lean-forward="false" selection-start-line="17" selection-start-column="47" selection-end-line="17" selection-end-column="47" />
+          <folding>
+            <element signature="e#494#641#0#HTML" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/home/templates/past_events.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="86">
+          <caret line="13" column="4" lean-forward="false" selection-start-line="13" selection-start-column="4" selection-end-line="22" selection-end-column="14" />
+          <folding>
+            <element signature="e#494#641#0#HTML" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/home/templates/contact.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="17" column="39" lean-forward="false" selection-start-line="17" selection-start-column="39" selection-end-line="17" selection-end-column="39" />
+          <folding>
+            <element signature="e#495#642#0#HTML" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/home/templates/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="156">
+          <caret line="62" column="26" lean-forward="false" selection-start-line="62" selection-start-column="26" selection-end-line="62" selection-end-column="26" />
+          <folding>
+            <element signature="e#472#615#0#HTML" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/home/static/assets/css/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="4" column="29" lean-forward="false" selection-start-line="4" selection-start-column="29" selection-end-line="4" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/home/templates/about.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="864">
+          <caret line="48" column="33" lean-forward="false" selection-start-line="48" selection-start-column="0" selection-end-line="49" selection-end-column="0" />
+          <folding>
+            <element signature="e#493#640#0#HTML" expanded="true" />
+            <element signature="e#799#824#0#HTML" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/home/models.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="414">
@@ -985,70 +1069,21 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/home/urls.py">
+    <entry file="file://$PROJECT_DIR$/home/templates/base.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="11" column="64" lean-forward="false" selection-start-line="11" selection-start-column="64" selection-end-line="11" selection-end-column="64" />
+        <state relative-caret-position="126">
+          <caret line="78" column="84" lean-forward="false" selection-start-line="78" selection-start-column="84" selection-end-line="78" selection-end-column="84" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/home/templates/gallery.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="378">
-          <caret line="21" column="0" lean-forward="false" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+        <state relative-caret-position="306">
+          <caret line="29" column="10" lean-forward="false" selection-start-line="29" selection-start-column="10" selection-end-line="29" selection-end-column="10" />
           <folding>
-            <element signature="e#667#703#0#HTML" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/home/views.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="398">
-          <caret line="26" column="18" lean-forward="false" selection-start-line="26" selection-start-column="18" selection-end-line="26" selection-end-column="18" />
-          <folding>
-            <element signature="e#0#35#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/home/static/assets/css/main.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="199">
-          <caret line="51" column="21" lean-forward="false" selection-start-line="51" selection-start-column="21" selection-end-line="51" selection-end-column="21" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/home/templates/about.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="906">
-          <caret line="102" column="39" lean-forward="false" selection-start-line="102" selection-start-column="39" selection-end-line="102" selection-end-column="39" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/home/templates/base.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1368">
-          <caret line="76" column="20" lean-forward="false" selection-start-line="76" selection-start-column="20" selection-end-line="76" selection-end-column="20" />
-          <folding>
-            <element signature="n#style#0;n#img#0;n#h1#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/home/templates/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="56">
-          <caret line="75" column="81" lean-forward="false" selection-start-line="75" selection-start-column="81" selection-end-line="75" selection-end-column="81" />
-          <folding>
-            <element signature="e#472#615#0#HTML" expanded="true" />
-            <element signature="e#791#836#0#HTML" expanded="true" />
-            <element signature="e#3670#3734#0#HTML" expanded="true" />
-            <element signature="e#3805#3830#0#HTML" expanded="true" />
-            <element signature="e#5247#5274#0#HTML" expanded="true" />
+            <element signature="e#495#642#0#HTML" expanded="true" />
+            <element signature="e#806#832#0#HTML" expanded="true" />
           </folding>
         </state>
       </provider>

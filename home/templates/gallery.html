@@ -10,13 +10,22 @@
 {% block contact %}../contact{% endblock %}
 {% block gallery_active %}class = "active"{% endblock %}
 {% block content %}
-    <section id="banner">
-        <h2>Gallery</h2>
+    <section style="background-repeat: no-repeat; opacity: 0.65; background-size: cover; background-image: url('{% static 'assets/images/back3.jpg' %}');
+     " id="banner">
+                    <div class="inner">
+
+						<header>
+							<h2>Gallery</h2>
+						</header>
+					</div>
+
     </section>
-    <div class="slide-box">
+    <br><br><br>
+    <div style="text-align: center">
     {% for item in images %}
         {% static "assets/gallery" as baseUrl %}
-        <img style="height: 200px; width: 200px;" class="slide" src="{{ baseUrl }}/{{item.photo_number}}.jpg" />
+        <a href="{{ baseUrl }}/{{item.photo_number}}.jpg" data-lightbox="image"><img style="height: 200px; width: 200px;" class="lazy" data-lightbox="image{{ item.id }}" data-original="{{ baseUrl }}/{{item.photo_number}}.jpg" />
+        </a>
     {% endfor %}
     </div>
 

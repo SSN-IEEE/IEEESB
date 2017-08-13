@@ -1,4 +1,5 @@
 {% extends 'base.html' %}
+{% load staticfiles %}
 {% block homelink %}../{% endblock %}
 {% block homelink1 %}../{% endblock %}
 {% block upcoming %}../upcoming_events{% endblock %}
@@ -9,52 +10,45 @@
 {% block contact %}../contact{% endblock %}
 {% block about_active %}class = "active"{% endblock %}
 {% block content %}
-    <section id="banner">
-        <h2>About Us</h2>
+    <section style="background-repeat: no-repeat; opacity: 0.65; background-size: cover; background-image: url('{% static 'assets/images/back3.jpg' %}');
+     " id="banner">
+                    <div class="inner">
+
+						<header>
+							<h2>About</h2>
+						</header>
+					</div>
+
     </section>
-    <article id="main">
+    <article id="main" style="margin-top: -10%;">
       <header class="special container">
-          <h2><strong>About Student Branch</strong></h2>
-          <p>There are more than 400,000 IEEE members in over 160 countries around the world.
-              IEEE members are engineers, scientists and associated professionals whose
-              technical interests are innate in science and technology related fields.
-                IEEE, consisting of 2,173 student branches at colleges and universities in 80
-              countries, has over 107,000 student members. Women in Engineering (WIE) is one
-              of the patent entities of IEEE's Affinity Group.
-              IEEE publishes more than 148 transactions, journals and magazines.
-              The IEEE Xplore Digital Library has over three million documents, available for
-              download and reference.
-          </p>
-          <br><br>
           <h2><strong>About SSN Student Branch</strong></h2>
-          <p>The IEEE student Branch of SSN Engineering College was formed on 2<sup>nd</sup> May 1998.From then,
-              there has been no looking back we have been very active and vibrant till this date.
-              The Student Branch was started with 10 student members in 1998.
-              Every year the number of student members joined in IEEE has increased and
-              presently the Branch has 250+ members.
-              Since then it has organized many events to provide outstanding value to its members.
-              The objective of starting IEEE Student branch was to create awareness about the day
-              today technological developments and to make them to utilize the resources available
-              in IEEE. And to make most of our student members involve themselves in publishing
-              research papers and projects.
+          <p>The IEEE student branch of SSN College of Engineering is very active and vibrant for organizing many
+events to promote technological innovation and excellence for the benefit of humanity. It’s objective is
+to create awareness regarding technological developments and to inspire, enable, empower and
+energize the student members to enhance their technical interests by providing them a platform to
+showcase their skills.
           </p>
           <br><br>
-          <h2><strong>Student Branch Vision</strong></h2>
-          <p>The primary purpose of IEEE student branch is to Inspire, Enable, Empower and Energize
-              our student members to enhance their technical interests by providing them a platform
-              to show case their skills.</p>
+          <h2><strong>Vision</strong></h2>
+          <p>The primary purpose of IEEE student branch is to Inspire, Enable, Empower and Energize our student
+members to enhance their technical interests by providing them a platform to showcase their skills.</p>
           <br><br>
-          <h2><strong>Student Branch Mission</strong></h2>
+          <h2><strong>Mission</strong></h2>
           <br>
           <ul>
-              <li>To work towards inspiring more students about IEEE.</li>
-              <li>To kindle students interest in making new papers and projects.</li>
-              <li>To organize technical awareness programs for young professionals.</li>
-              <li>To arrange for regular events in the campus specifically dealing with latest technologies</li>
-              <li>To form more Special Interest Groups to encourage project activity among the student members.</li>
-              <li>To strive towards achieving more IEEE-sponsored awards and aim at representing papers in international conferences.</li>
+              <li>Engage the members with latest technologies</li>
+              <li>Work towards inspiring more students about IEEE</li>
+              <li>Kindle students interest in making new papers and projects</li>
+              <li>Organize technology awareness programs for young professionals</li>
+              <li>Form more Special Interest Groups to encourage project activity among the student members</li>
+              <li>Strive towards achieving more IEEE-sponsored awards and aim at representing papers in
+international conferences</li>
           </ul>
+          <br><br>
+{#          <h2><strong>Student Branch Societies</strong></h2>#}
           <br>
+
           <h2><strong>Quick Info</strong></h2>
           <br>
           <table class="info_table">

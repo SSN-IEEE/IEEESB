@@ -2,67 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1783cc37-fde3-4c14-b0e5-28d4e1338ff9" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/home/static/assets/gallery/16.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/home/static/assets/gallery/17.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/home/static/assets/gallery/18.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/home/static/assets/gallery/19.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/home/static/assets/gallery/20.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/home/static/assets/gallery/21.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/home/static/assets/gallery/22.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/home/static/assets/gallery/23.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/home/static/assets/gallery/24.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/home/static/assets/gallery/25.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/home/static/assets/gallery/26.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/home/static/assets/gallery/27.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/home/static/assets/gallery/28.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/home/static/assets/gallery/29.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/home/static/assets/gallery/30.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/home/static/assets/gallery/31.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/home/static/assets/gallery/32.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/home/static/assets/gallery/33.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/home/static/assets/gallery/34.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/home/static/assets/gallery/35.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/home/static/assets/gallery/36.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/home/static/assets/gallery/37.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/home/static/assets/gallery/38.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/home/static/assets/gallery/39.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/home/static/assets/gallery/40.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/home/static/assets/gallery/41.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/home/static/assets/gallery/42.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/home/static/assets/gallery/43.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/home/static/assets/gallery/44.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/home/static/assets/gallery/45.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/home/static/assets/gallery/46.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/home/static/assets/gallery/47.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/home/static/assets/gallery/48.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/home/static/assets/gallery/49.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/home/static/assets/gallery/50.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/home/static/assets/gallery/51.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/home/static/assets/gallery/52.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/home/static/assets/gallery/53.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/home/static/assets/gallery/54.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/home/static/assets/gallery/55.jpg" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/db.sqlite3" afterPath="$PROJECT_DIR$/db.sqlite3" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/home/static/assets/gallery/1.jpg" afterPath="$PROJECT_DIR$/home/static/assets/gallery/1.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/home/static/assets/gallery/10.jpg" afterPath="$PROJECT_DIR$/home/static/assets/gallery/10.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/home/static/assets/gallery/11.jpg" afterPath="$PROJECT_DIR$/home/static/assets/gallery/11.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/home/static/assets/gallery/12.jpg" afterPath="$PROJECT_DIR$/home/static/assets/gallery/12.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/home/static/assets/gallery/13.jpg" afterPath="$PROJECT_DIR$/home/static/assets/gallery/13.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/home/static/assets/gallery/14.jpg" afterPath="$PROJECT_DIR$/home/static/assets/gallery/14.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/home/static/assets/gallery/15.jpg" afterPath="$PROJECT_DIR$/home/static/assets/gallery/15.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/home/static/assets/gallery/2.jpg" afterPath="$PROJECT_DIR$/home/static/assets/gallery/2.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/home/static/assets/gallery/7.jpg" afterPath="$PROJECT_DIR$/home/static/assets/gallery/7.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/home/static/assets/gallery/8.jpg" afterPath="$PROJECT_DIR$/home/static/assets/gallery/8.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/home/static/assets/gallery/9.jpg" afterPath="$PROJECT_DIR$/home/static/assets/gallery/9.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/home/static/assets/css/main.css" afterPath="$PROJECT_DIR$/home/static/assets/css/main.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/home/templates/about.html" afterPath="$PROJECT_DIR$/home/templates/about.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/home/templates/base.html" afterPath="$PROJECT_DIR$/home/templates/base.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/home/templates/contact.html" afterPath="$PROJECT_DIR$/home/templates/contact.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/home/templates/gallery.html" afterPath="$PROJECT_DIR$/home/templates/gallery.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/home/templates/index.html" afterPath="$PROJECT_DIR$/home/templates/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/home/templates/past_events.html" afterPath="$PROJECT_DIR$/home/templates/past_events.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/home/templates/upcoming_events.html" afterPath="$PROJECT_DIR$/home/templates/upcoming_events.html" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -89,7 +30,7 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/home/templates/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="156">
+            <state relative-caret-position="1116">
               <caret line="62" column="26" lean-forward="false" selection-start-line="62" selection-start-column="26" selection-end-line="62" selection-end-column="26" />
               <folding>
                 <element signature="e#472#615#0#HTML" expanded="true" />
@@ -101,9 +42,11 @@
       <file leaf-file-name="base.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/home/templates/base.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="126">
-              <caret line="78" column="84" lean-forward="false" selection-start-line="78" selection-start-column="84" selection-end-line="78" selection-end-column="84" />
-              <folding />
+            <state relative-caret-position="-54">
+              <caret line="24" column="41" lean-forward="true" selection-start-line="24" selection-start-column="41" selection-end-line="24" selection-end-column="41" />
+              <folding>
+                <element signature="n#style#0;n#nav#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -158,8 +101,8 @@
       <file leaf-file-name="gallery.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/home/templates/gallery.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="29" column="10" lean-forward="false" selection-start-line="29" selection-start-column="10" selection-end-line="29" selection-end-column="10" />
+            <state relative-caret-position="198">
+              <caret line="26" column="116" lean-forward="false" selection-start-line="26" selection-start-column="116" selection-end-line="26" selection-end-column="116" />
               <folding>
                 <element signature="e#495#642#0#HTML" expanded="true" />
                 <element signature="e#806#832#0#HTML" expanded="true" />
@@ -171,8 +114,8 @@
       <file leaf-file-name="main.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/home/static/assets/css/main.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="72">
-              <caret line="4" column="29" lean-forward="false" selection-start-line="4" selection-start-column="29" selection-end-line="4" selection-end-column="29" />
+            <state relative-caret-position="7268">
+              <caret line="2332" column="27" lean-forward="false" selection-start-line="2332" selection-start-column="24" selection-end-line="2332" selection-end-column="27" />
               <folding />
             </state>
           </provider>
@@ -217,7 +160,6 @@
       <find>submenu</find>
       <find>fff</find>
       <find>shad</find>
-      <find>nav</find>
       <find>inner</find>
       <find>button</find>
       <find>buttons</find>
@@ -233,6 +175,7 @@
       <find>marquee</find>
       <find>style2</find>
       <find>ieee stan</find>
+      <find>nav</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -254,9 +197,9 @@
         <option value="$PROJECT_DIR$/home/templates/upcoming_events.html" />
         <option value="$PROJECT_DIR$/home/templates/contact.html" />
         <option value="$PROJECT_DIR$/home/templates/index.html" />
-        <option value="$PROJECT_DIR$/home/static/assets/css/main.css" />
         <option value="$PROJECT_DIR$/home/templates/about.html" />
         <option value="$PROJECT_DIR$/home/templates/base.html" />
+        <option value="$PROJECT_DIR$/home/static/assets/css/main.css" />
         <option value="$PROJECT_DIR$/home/templates/gallery.html" />
       </list>
     </option>
@@ -695,7 +638,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="608">
           <caret line="32" column="42" lean-forward="true" selection-start-line="32" selection-start-column="42" selection-end-line="32" selection-end-column="42" />
-          <folding />
+          <folding>
+            <element signature="n#style#0;n#nav#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -749,7 +694,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="551">
           <caret line="29" column="60" lean-forward="true" selection-start-line="29" selection-start-column="60" selection-end-line="29" selection-end-column="60" />
-          <folding />
+          <folding>
+            <element signature="n#style#0;n#nav#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -821,7 +768,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="266">
           <caret line="14" column="9" lean-forward="false" selection-start-line="14" selection-start-column="9" selection-end-line="14" selection-end-column="9" />
-          <folding />
+          <folding>
+            <element signature="n#style#0;n#nav#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -903,7 +852,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="19" lean-forward="false" selection-start-line="0" selection-start-column="19" selection-end-line="0" selection-end-column="19" />
-          <folding />
+          <folding>
+            <element signature="n#style#0;n#nav#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1032,24 +983,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/home/templates/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="156">
-          <caret line="62" column="26" lean-forward="false" selection-start-line="62" selection-start-column="26" selection-end-line="62" selection-end-column="26" />
-          <folding>
-            <element signature="e#472#615#0#HTML" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/home/static/assets/css/main.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="4" column="29" lean-forward="false" selection-start-line="4" selection-start-column="29" selection-end-line="4" selection-end-column="29" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/home/templates/about.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="864">
@@ -1069,18 +1002,38 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/home/templates/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1116">
+          <caret line="62" column="26" lean-forward="false" selection-start-line="62" selection-start-column="26" selection-end-line="62" selection-end-column="26" />
+          <folding>
+            <element signature="e#472#615#0#HTML" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/home/templates/base.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="78" column="84" lean-forward="false" selection-start-line="78" selection-start-column="84" selection-end-line="78" selection-end-column="84" />
+        <state relative-caret-position="-54">
+          <caret line="24" column="41" lean-forward="true" selection-start-line="24" selection-start-column="41" selection-end-line="24" selection-end-column="41" />
+          <folding>
+            <element signature="n#style#0;n#nav#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/home/static/assets/css/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="7268">
+          <caret line="2332" column="27" lean-forward="false" selection-start-line="2332" selection-start-column="24" selection-end-line="2332" selection-end-column="27" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/home/templates/gallery.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="29" column="10" lean-forward="false" selection-start-line="29" selection-start-column="10" selection-end-line="29" selection-end-column="10" />
+        <state relative-caret-position="198">
+          <caret line="26" column="116" lean-forward="false" selection-start-line="26" selection-start-column="116" selection-end-line="26" selection-end-column="116" />
           <folding>
             <element signature="e#495#642#0#HTML" expanded="true" />
             <element signature="e#806#832#0#HTML" expanded="true" />

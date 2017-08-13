@@ -24,7 +24,7 @@
     <div style="text-align: center">
     {% for item in images %}
         {% static "assets/gallery" as baseUrl %}
-        <a href="{{ baseUrl }}/{{item.photo_number}}.jpg" data-lightbox="image"><img style="height: 200px; width: 200px;" class="lazy" data-lightbox="image{{ item.id }}" data-original="{{ baseUrl }}/{{item.photo_number}}.jpg" />
+        <a href="{{ baseUrl }}/{{item.photo_number}}.jpg" data-lightbox="image"><img style="height: 200px; width: 400px;" class="lazy" data-lightbox="image{{ item.id }}" data-original="{{ baseUrl }}/{{item.photo_number}}.jpg" />
         </a>
     {% endfor %}
     </div>

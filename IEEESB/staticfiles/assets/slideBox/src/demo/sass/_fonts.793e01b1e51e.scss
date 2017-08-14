@@ -1,0 +1,32 @@
+
+/// FONT FAMILIES
+
+//@import '../fonts/neue-haas-unica-regular';
+//@import '../fonts/neue-haas-unica-italic';
+
+$sans: 'Neue Haas Unica', 'Helvetica Neue', 'Helvetica', sans-serif;
+
+@import 'sabon-next-regular';
+@import 'sabon-next-bold';
+
+$serif: 'Sabon Next', 'Sabon', 'Times', 'Georgia', serif;
+
+$mono: 'Consolas', 'LetterGothicMono', monospace;
+
+.font-sans			{	font-family: $sans; }
+.font-serif			{	font-family: $serif; }
+
+
+/// FONT SIZING
+
+$normal-size: 21px;
+
+$normal-size-sl: 18px;
+
+$line-height: 1.25; //24/18;
+
+$normal-spacing: normal;
+$wide-spacing: 0.025em;
+$caps-spacing: 0.05em;
+
+.font-normal			{	font-size: $normal-size; }

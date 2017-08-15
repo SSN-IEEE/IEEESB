@@ -144,7 +144,48 @@
             <div id="openModal{{ item.id }}" class="modalDialog">
                 <div>	<a href="#close" title="Close" class="close">X</a>
 
-                    <h2>Event Name : {{ item.name }}</h2>
+                    <div style="text-align: center;">
+                    <h2>{{ item.name }}</h2>
+                    <p>Event Date: {{ item.start_date }}</p>
+                        <p id="modalType{{ item.id }}">Event Type:</p>
+                        <script>var type = ["Conference", "Workshop", "Guest Lecture", "Symposium", "Meeting", "Competition"];
+                        var eventType = type[{{ item.type }}];
+                        document.getElementById("modalType" + {{ item.id }}).innerHTML += eventType;
+                        </script>
+                        <p id="modalHost{{ item.id }}">Hosting Department:</p>
+                        <script>
+                        var host = ["IT Department", "CS Department", "Chemical Department", "Mechanical Department",
+                            "Bio-medical Department", "Mechanical Department", "ECE Department", "EEE Department", "Civil Department"
+                        , "Common"];
+                        var hostingDepartment = host[{{ item.host }}];
+                        document.getElementById("modalHost" + {{ item.id }}).innerHTML += hostingDepartment;
+                        </script>
+                        <p>Co-ordinators: {{ item.coord }}</p>
+                        <p>Speakers: {{ item.speakers }}</p>
+
+                            {% if item.no_of_participants != -1 %}
+                                <p>Participants Count: {{ item.no_of_participants }}</p>
+                            {% endif %}
+                            {% if item.event_photo != 'NIL' %}
+
+                                <p>Event Image</p>
+                                {% static "assets/images/events" as baseUrl %}
+                                <img style="height: 500px; width: 500px;" src="{{ baseUrl }}/{{ item.event_photo }}">
+                            {% endif %}
+                            {% if item.brochure_link != 'NIL' %}
+
+                                <p>Brochure</p>
+                                {% static "assets/images/events" as baseUrl %}
+                                <embed src="pdfFiles/interfaces.pdf" width="600" height="500" alt="pdf" pluginspage="{{ baseUrl }}/{{ item.brochure_link }}' %}">
+                            {% endif %}
+                            {% if item.schedule_link != 'NIL' %}
+
+                                <p>Schedule</p>
+                                {% static "assets/images/events" as baseUrl %}
+                                <embed src="pdfFiles/interfaces.pdf" width="600" height="500" alt="pdf" pluginspage="{{ baseUrl }}/{{ item.schedule_link }}">
+                            {% endif %}
+
+                    </div>
 
                     </div>
             </div>

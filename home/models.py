@@ -11,6 +11,7 @@ class events(models.Model):
     no_of_participants = models.IntegerField(default=-1)
     duration = models.IntegerField()
     brochure_link = models.CharField(max_length=300, default='NIL')
+    schedule_link = models.CharField(max_length=300, default='NIL')
     event_photo = models.CharField(max_length=100, default='NIL')
     scope = models.CharField(max_length=1000, default='NIL')
     objective = models.CharField(max_length=1000, default='NIL')

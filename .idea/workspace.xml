@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1783cc37-fde3-4c14-b0e5-28d4e1338ff9" name="Default" comment="" />
+    <list default="true" id="1783cc37-fde3-4c14-b0e5-28d4e1338ff9" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/home/templates/contact.html" afterPath="$PROJECT_DIR$/home/templates/contact.html" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -34,7 +36,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="base.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="base.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/home/templates/base.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="120">
@@ -88,22 +90,12 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="contact.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="contact.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/home/templates/contact.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="119" column="112" lean-forward="false" selection-start-line="119" selection-start-column="112" selection-end-line="119" selection-end-column="112" />
-              <folding>
-                <element signature="e#1084#1102#0#HTML" expanded="true" />
-                <element signature="e#1408#1426#0#HTML" expanded="true" />
-                <element signature="e#1696#1714#0#HTML" expanded="true" />
-                <element signature="e#2019#2037#0#HTML" expanded="true" />
-                <element signature="e#2321#2355#0#HTML" expanded="true" />
-                <element signature="e#2634#2652#0#HTML" expanded="true" />
-                <element signature="e#2970#3004#0#HTML" expanded="true" />
-                <element signature="e#3291#3325#0#HTML" expanded="true" />
-                <element signature="e#3610#3645#0#HTML" expanded="true" />
-              </folding>
+            <state relative-caret-position="182">
+              <caret line="143" column="8" lean-forward="false" selection-start-line="143" selection-start-column="8" selection-end-line="143" selection-end-column="8" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -157,7 +149,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>color: #fff</find>
       <find>th</find>
       <find>script</find>
       <find>border</find>
@@ -187,6 +178,7 @@
       <find>table</find>
       <find>event-table</find>
       <find>past_events</find>
+      <find>slide</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -212,9 +204,9 @@
         <option value="$PROJECT_DIR$/home/templates/past_events.html" />
         <option value="$PROJECT_DIR$/home/templates/about.html" />
         <option value="$PROJECT_DIR$/home/static/assets/css/main.css" />
-        <option value="$PROJECT_DIR$/home/templates/contact.html" />
         <option value="$PROJECT_DIR$/home/templates/base.html" />
         <option value="$PROJECT_DIR$/home/templates/index.html" />
+        <option value="$PROJECT_DIR$/home/templates/contact.html" />
       </list>
     </option>
   </component>
@@ -1038,24 +1030,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/home/templates/contact.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="119" column="112" lean-forward="false" selection-start-line="119" selection-start-column="112" selection-end-line="119" selection-end-column="112" />
-          <folding>
-            <element signature="e#1084#1102#0#HTML" expanded="true" />
-            <element signature="e#1408#1426#0#HTML" expanded="true" />
-            <element signature="e#1696#1714#0#HTML" expanded="true" />
-            <element signature="e#2019#2037#0#HTML" expanded="true" />
-            <element signature="e#2321#2355#0#HTML" expanded="true" />
-            <element signature="e#2634#2652#0#HTML" expanded="true" />
-            <element signature="e#2970#3004#0#HTML" expanded="true" />
-            <element signature="e#3291#3325#0#HTML" expanded="true" />
-            <element signature="e#3610#3645#0#HTML" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/home/templates/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
@@ -1070,6 +1044,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
           <caret line="11" column="60" lean-forward="false" selection-start-line="11" selection-start-column="55" selection-end-line="11" selection-end-column="60" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/home/templates/contact.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="182">
+          <caret line="143" column="8" lean-forward="false" selection-start-line="143" selection-start-column="8" selection-end-line="143" selection-end-column="8" />
           <folding />
         </state>
       </provider>

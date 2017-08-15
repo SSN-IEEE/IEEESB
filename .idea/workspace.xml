@@ -111,8 +111,8 @@
       <file leaf-file-name="past_events.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/home/templates/past_events.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-162">
-              <caret line="78" column="79" lean-forward="true" selection-start-line="78" selection-start-column="79" selection-end-line="78" selection-end-column="79" />
+            <state relative-caret-position="198">
+              <caret line="89" column="17" lean-forward="false" selection-start-line="89" selection-start-column="17" selection-end-line="89" selection-end-column="17" />
               <folding>
                 <element signature="e#494#641#0#HTML" expanded="true" />
                 <element signature="e#821#848#0#HTML" expanded="true" />
@@ -1024,8 +1024,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/home/templates/past_events.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-162">
-          <caret line="78" column="79" lean-forward="true" selection-start-line="78" selection-start-column="79" selection-end-line="78" selection-end-column="79" />
+        <state relative-caret-position="198">
+          <caret line="89" column="17" lean-forward="false" selection-start-line="89" selection-start-column="17" selection-end-line="89" selection-end-column="17" />
           <folding>
             <element signature="e#494#641#0#HTML" expanded="true" />
             <element signature="e#821#848#0#HTML" expanded="true" />

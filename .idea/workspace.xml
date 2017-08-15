@@ -111,14 +111,15 @@
       <file leaf-file-name="past_events.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/home/templates/past_events.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="198">
-              <caret line="89" column="17" lean-forward="false" selection-start-line="89" selection-start-column="17" selection-end-line="89" selection-end-column="17" />
+            <state relative-caret-position="252">
+              <caret line="26" column="73" lean-forward="false" selection-start-line="26" selection-start-column="73" selection-end-line="26" selection-end-column="73" />
               <folding>
                 <element signature="e#494#641#0#HTML" expanded="true" />
                 <element signature="e#821#848#0#HTML" expanded="true" />
-                <element signature="e#1326#1353#0#HTML" expanded="true" />
-                <element signature="e#1898#1925#0#HTML" expanded="true" />
-                <element signature="e#3325#3382#0#HTML" expanded="true" />
+                <element signature="e#944#968#0#HTML" expanded="true" />
+                <element signature="e#1351#1378#0#HTML" expanded="true" />
+                <element signature="e#1923#1950#0#HTML" expanded="true" />
+                <element signature="e#3350#3407#0#HTML" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -1024,14 +1025,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/home/templates/past_events.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="89" column="17" lean-forward="false" selection-start-line="89" selection-start-column="17" selection-end-line="89" selection-end-column="17" />
+        <state relative-caret-position="252">
+          <caret line="26" column="73" lean-forward="false" selection-start-line="26" selection-start-column="73" selection-end-line="26" selection-end-column="73" />
           <folding>
             <element signature="e#494#641#0#HTML" expanded="true" />
             <element signature="e#821#848#0#HTML" expanded="true" />
-            <element signature="e#1326#1353#0#HTML" expanded="true" />
-            <element signature="e#1898#1925#0#HTML" expanded="true" />
-            <element signature="e#3325#3382#0#HTML" expanded="true" />
+            <element signature="e#944#968#0#HTML" expanded="true" />
+            <element signature="e#1351#1378#0#HTML" expanded="true" />
+            <element signature="e#1923#1950#0#HTML" expanded="true" />
+            <element signature="e#3350#3407#0#HTML" expanded="true" />
           </folding>
         </state>
       </provider>

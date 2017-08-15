@@ -76,7 +76,7 @@
             <td id="hostingDept{{ item.id }}"></td>
             <script>
                     var host = ["IT Department", "CS Department", "Chemical Department", "Mechanical Department",
-                        "ECE Department", "EEE Department", "Civil Department"];
+                        "Bio-medical Department", "ECE Department", "EEE Department", "Civil Department"];
                     var hostingDepartment = host[{{ item.host }}];
                     document.getElementById("hostingDept" + {{ item.id }}).innerHTML = hostingDepartment;
             </script>
@@ -92,7 +92,7 @@
                 <div>	<a href="#close" title="Close" class="close">X</a>
 
                     <h2>{{ item.name }}</h2>
-                    
+
                     </div>
             </div>
         {% endfor %}

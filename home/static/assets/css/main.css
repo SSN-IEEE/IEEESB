@@ -30,9 +30,9 @@
     padding: 5px 20px 13px 20px;
     border-radius: 10px;
     background: #000;
-    background: -moz-linear-gradient(#fff, #999);
-    background: -webkit-linear-gradient(#fff, #999);
-    background: -o-linear-gradient(#fff, #999);
+    background: -moz-linear-gradient(#fff, #fffccf);
+    background: -webkit-linear-gradient(#fff, #fffccf);
+    background: -o-linear-gradient(#fff, #fffccf);
 }
 .close {
     background: #606061;
@@ -67,8 +67,15 @@
 		margin: 0 0 0 5%;
 		width: 90%;
 	}
+#modalLink.a{
+	color: white;
+}
+#modalLink.a:visited{
+		color: white;
+	}
+
 	thead{
-		background-color: #014c8c;
+		background-color: #4b5257;
 	}
 	tbody{
 		background-color: #ffffff;

@@ -33,6 +33,7 @@
     background: -moz-linear-gradient(#fff, #fffccf);
     background: -webkit-linear-gradient(#fff, #fffccf);
     background: -o-linear-gradient(#fff, #fffccf);
+	overflow-y: scroll;
 }
 .close {
     background: #606061;

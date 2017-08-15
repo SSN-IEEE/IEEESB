@@ -132,7 +132,7 @@
                 var streamOfEvent = stream[{{ item.stream }}];
                 document.getElementById("stream" + {{ item.id }}).innerHTML = streamOfEvent;
             </script>
-            <td><button style="border-radius: 5px; background-color: #004bc4;"><a id="modalLink" href="#openModal{{ item.id }}">Click here</a></button></td>
+            <td><button style="border-radius: 5px; background-color: transparent"><a id="modalLink" href="#openModal{{ item.id }}">Click here</a></button></td>
             </tr>
             <div id="openModal{{ item.id }}" class="modalDialog">
                 <div>	<a href="#close" title="Close" class="close">X</a>

@@ -87,6 +87,15 @@
     });
     $(".events-table").dynatable();
     $(".dynatable-search").hide();
+    var dynatable = $('.events-2016').data('dynatable');
+    dynatable.paginationPerPage.set(100); // Show 20 records per page
+    dynatable.process();
+    var dynatable = $('.events-2017').data('dynatable');
+    dynatable.paginationPerPage.set(100); // Show 20 records per page
+    dynatable.process();
+    $(".dynatable-record-count").hide();
+    $(".dynatable-pagination-links").hide();
+    $(".dynatable-per-page").hide();
     </script>
     </body>
 </html>

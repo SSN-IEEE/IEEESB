@@ -11,6 +11,7 @@
 		<link rel="stylesheet" href="{% static 'assets/css/main.css' %}" />
         <link rel="stylesheet" href="{% static 'assets/slideBox/assets/slidebox.css' %}">
         <link rel="stylesheet" href="{% static 'assets/lightbox2-master/src/css/lightbox.css' %}">
+        <link rel="stylesheet" href="{% static 'assets/jspkg-archive/jquery.dynatable.css' %}">
 		<!--[if lte IE 8]><link rel="stylesheet" href="assets/css/ie8.css" /><![endif]-->
 		<!--[if lte IE 9]><link rel="stylesheet" href="assets/css/ie9.css" /><![endif]-->
 	</head>
@@ -67,7 +68,7 @@
 
 		<!-- Scripts -->
 			<script src="{% static 'assets/js/jquery.min.js' %}"></script>
-			<script src="{% static 'assets/js/jquery.dropotron.min.js' %}"></script>
+            <script src="{% static 'assets/js/jquery.dropotron.min.js' %}"></script>
 			<script src="{% static 'assets/js/jquery.scrolly.min.js' %}"></script>
 			<script src="{% static 'assets/js/jquery.scrollgress.min.js' %}"></script>
             <script src="{% static 'assets/js/skel.min.js' %}"></script>
@@ -77,11 +78,15 @@
             <script src="{% static 'assets/js/home.js' %}"></script>
             <script src="{% static 'assets/jquery_lazyload-master/jquery.lazyload.js' %}"></script>
             <script src="{% static 'assets/lightbox2-master/src/js/lightbox.js' %}"></script>
+            <script src="{% static 'assets/jspkg-archive/jquery.dynatable.js' %}"></script>
+
         <!-- css -->
              <script>
     $(function() {
     $("img.lazy").lazyload();
     });
+    $(".events-table").dynatable();
+    $(".dynatable-search").hide();
     </script>
     </body>
 </html>

@@ -21,7 +21,84 @@
 					</div>
 
     </section>
-    <article id="main">
-    <button class="btn btn-info">HELLO</button>
-    </article>
+    <br>
+    <br><br>
+    <header><h2 style="text-align: center;"><strong>Events - 2017</strong></h2></header>
+    <table class="events-table event-table-style">
+        <thead>
+        <tr>
+        <th>Event</th>
+        <th>Date</th>
+        <th>Type</th>
+        <th>Host</th>
+        <th>More Details</th>
+        </tr>
+        </thead>
+        <tbody>
+        {% for item in events %}
+            {% if item.start_date.year == 2015 %}
+                </tbody>
+                </table>
+                <br><br>
+                <header><h2 style="text-align: center;"><strong>Events - 2015</strong></h2></header>
+                <table class="events-table event-table-style">
+                <thead>
+                <tr>
+                <th>Event</th>
+                <th>Date</th>
+                <th>Stream</th>
+                <th>Host</th>
+                <th>More Details</th>
+                </tr>
+                </thead>
+                <tbody>
+                {% elif item.start_date.year == 2016 %}
+                </tbody>
+                </table>
+                <br><br>
+                <header><h2 style="text-align: center;"><strong>Events - 2016</strong></h2></header>
+                <table class="events-table event-table-style">
+                <thead>
+                <tr>
+                <th>Event</th>
+                <th>Date</th>
+                <th>Stream</th>
+                <th>Host</th>
+                <th>More Details</th>
+                </tr>
+                </thead>
+                <tbody>
+            {% endif %}
+            <tr>
+            <td>{{ item.name }}</td>
+            <td>{{ item.start_date }}</td>
+            <td id="stream{{ item.id }}">{{ item.stream }}</td>
+            <td id="hostingDept{{ item.id }}"></td>
+            <script>
+                    var host = ["IT Department", "CS Department", "Chemical Department", "Mechanical Department",
+                        "ECE Department", "EEE Department", "Civil Department"];
+                    var hostingDepartment = host[{{ item.host }}];
+                    document.getElementById("hostingDept" + {{ item.id }}).innerHTML = hostingDepartment;
+            </script>
+            <script>
+                var stream = ["Technical", "Non-Technical"];
+                var streamOfEvent = stream[{{ item.stream }}];
+                document.getElementById("stream" + {{ item.id }}).innerHTML = streamOfEvent;
+            </script>
+            <td><button style="border-radius: 5px; background-color: transparent"><a href="#openModal{{ item.id }}">Click here</a></button></td>
+            </tr>
+            <br>
+            <div id="openModal{{ item.id }}" class="modalDialog">
+                <div>	<a href="#close" title="Close" class="close">X</a>
+
+                    <h2>Modal Box</h2>
+
+                    <p>This is a sample modal box that can be created using the powers of CSS3.</p>
+                    <p>You could do a lot of things here like have a pop-up ad that shows when your website loads, or create a login/register form for users.</p>
+                </div>
+            </div>
+        {% endfor %}
+        </tbody>
+    </table>
+
 {% endblock %}

@@ -67,6 +67,9 @@
 		margin: 0 10px 0 10px;
 		width: 90%;
 	}
+	tr{
+		margin-top: 20px;
+	}
 	thead{
 		background-color: #014c8c;
 	}

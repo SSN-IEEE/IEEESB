@@ -90,13 +90,13 @@
 
                                 <p>Brochure</p>
                                 {% static "assets/images/events" as baseUrl %}
-                                <embed src="pdfFiles/interfaces.pdf" width="600" height="500" alt="pdf" pluginspage="{{ baseUrl }}/{{ item.brochure_link }}' %}">
+                                <iframe src="{{ baseUrl }}/{{ item.brochure_link }}" style="width:600px; height:500px;" frameborder="0"></iframe>
                             {% endif %}
                             {% if item.schedule_link != 'NIL' %}
 
                                 <p>Schedule</p>
                                 {% static "assets/images/events" as baseUrl %}
-                                <embed src="pdfFiles/interfaces.pdf" width="600" height="500" alt="pdf" pluginspage="{{ baseUrl }}/{{ item.schedule_link }}">
+                                <iframe src="{{ baseUrl }}/{{ item.schedule_link }}" style="width:600px; height:500px;" frameborder="0"></iframe>
                             {% endif %}
 
                     </div>
@@ -176,13 +176,13 @@
 
                                 <p>Brochure</p>
                                 {% static "assets/images/events" as baseUrl %}
-                                <embed src="pdfFiles/interfaces.pdf" width="600" height="500" alt="pdf" pluginspage="{{ baseUrl }}/{{ item.brochure_link }}' %}">
+                                <iframe src="{{ baseUrl }}/{{ item.brochure_link }}" style="width:600px; height:500px;" frameborder="0"></iframe>
                             {% endif %}
                             {% if item.schedule_link != 'NIL' %}
 
                                 <p>Schedule</p>
                                 {% static "assets/images/events" as baseUrl %}
-                                <embed src="pdfFiles/interfaces.pdf" width="600" height="500" alt="pdf" pluginspage="{{ baseUrl }}/{{ item.schedule_link }}">
+                                <iframe src="{{ baseUrl }}/{{ item.schedule_link }}" style="width:600px; height:500px;" frameborder="0"></iframe>
                             {% endif %}
 
                     </div>

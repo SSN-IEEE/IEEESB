@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1783cc37-fde3-4c14-b0e5-28d4e1338ff9" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/home/static/assets/images/events/2.pdf" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/home/templates/past_events.html" afterPath="$PROJECT_DIR$/home/templates/past_events.html" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -112,13 +113,13 @@
         <entry file="file://$PROJECT_DIR$/home/templates/past_events.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="248">
-              <caret line="78" column="47" lean-forward="false" selection-start-line="78" selection-start-column="47" selection-end-line="78" selection-end-column="47" />
+              <caret line="78" column="74" lean-forward="false" selection-start-line="78" selection-start-column="74" selection-end-line="78" selection-end-column="74" />
               <folding>
                 <element signature="e#494#641#0#HTML" expanded="true" />
                 <element signature="e#821#848#0#HTML" expanded="true" />
                 <element signature="e#1326#1353#0#HTML" expanded="true" />
                 <element signature="e#1898#1925#0#HTML" expanded="true" />
-                <element signature="e#3269#3326#0#HTML" expanded="true" />
+                <element signature="e#3294#3351#0#HTML" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -1025,13 +1026,13 @@
     <entry file="file://$PROJECT_DIR$/home/templates/past_events.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="248">
-          <caret line="78" column="47" lean-forward="false" selection-start-line="78" selection-start-column="47" selection-end-line="78" selection-end-column="47" />
+          <caret line="78" column="74" lean-forward="false" selection-start-line="78" selection-start-column="74" selection-end-line="78" selection-end-column="74" />
           <folding>
             <element signature="e#494#641#0#HTML" expanded="true" />
             <element signature="e#821#848#0#HTML" expanded="true" />
             <element signature="e#1326#1353#0#HTML" expanded="true" />
             <element signature="e#1898#1925#0#HTML" expanded="true" />
-            <element signature="e#3269#3326#0#HTML" expanded="true" />
+            <element signature="e#3294#3351#0#HTML" expanded="true" />
           </folding>
         </state>
       </provider>

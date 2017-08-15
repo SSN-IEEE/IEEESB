@@ -34,7 +34,38 @@
         <th>More Details</th>
         </tr>
         </thead>
-        <tbody class="events2017">
+        <tbody>
+        {% for item in events %}
+            {% if item.start_date.year == 2017 %}
+            <tr>
+            <td>{{ item.name }}</td>
+            <td>{{ item.start_date }}</td>
+            <td id="stream{{ item.id }}">{{ item.stream }}</td>
+            <td id="hostingDept{{ item.id }}"></td>
+            <script>
+                    var host = ["IT Department", "CS Department", "Chemical Department", "Mechanical Department",
+                        "Bio-medical Department", "Mechanical Department", "ECE Department", "EEE Department", "Civil Department"
+                    , "Common"];
+                    var hostingDepartment = host[{{ item.host }}];
+                    document.getElementById("hostingDept" + {{ item.id }}).innerHTML = hostingDepartment;
+            </script>
+            <script>
+                var stream = ["Technical", "Non-Technical"];
+                var streamOfEvent = stream[{{ item.stream }}];
+                document.getElementById("stream" + {{ item.id }}).innerHTML = streamOfEvent;
+            </script>
+            <td><button style="border-radius: 5px; background-color: transparent"><a href="#openModal{{ item.id }}">Click here</a></button></td>
+            </tr>
+            <div id="openModal{{ item.id }}" class="modalDialog">
+                <div>	<a href="#close" title="Close" class="close">X</a>
+
+                    <h2>{{ item.name }}</h2>
+
+                    </div>
+            </div>
+            {% endif %}
+
+        {% endfor %}
         </tbody>
     </table>
     <br><br>
@@ -49,45 +80,28 @@
         <th>More Details</th>
         </tr>
         </thead>
-        <tbody class="events2016">
-        </tbody>
-    </table>
-    <br><br>
-    <header><h2 style="text-align: center;"><strong>Events - 2015</strong></h2></header>
-    <table class="events-table event-table-style" style="margin-top: 0%;">
-        <thead>
-        <tr>
-        <th>Event</th>
-        <th>Date</th>
-        <th>Type</th>
-        <th>Host</th>
-        <th>More Details</th>
-        </tr>
-        </thead>
-        <tbody class="events2015">
-        </tbody>
-    </table>
+        <tbody>
         {% for item in events %}
-            {% if item.start_date.year == 2017 %}
+            {% if item.start_date.year == 2016 %}
+            <tr>
+            <td>{{ item.name }}</td>
+            <td>{{ item.start_date }}</td>
+            <td id="stream{{ item.id }}">{{ item.stream }}</td>
+            <td id="hostingDept{{ item.id }}"></td>
             <script>
-            var html = "<tr><td>{{ item.name }}</td><td>{{ item.start_date }}</td><td id='stream{{ item.id }}'>{{ item.stream }}</td><td id='hostingDept{{ item.id }}'></td>";
-            var host = ["IT Department", "CS Department", "Chemical Department", "Mechanical Department",
+                    var host = ["IT Department", "CS Department", "Chemical Department", "Mechanical Department",
                         "Bio-medical Department", "Mechanical Department", "ECE Department", "EEE Department", "Civil Department"
                     , "Common"];
-            var hostingDepartment = host[{{ item.host }}];
-            document.getElementById("hostingDept" + {{ item.id }}).innerHTML = hostingDepartment;
-            var stream = ["Technical", "Non-Technical"];
-            var streamOfEvent = stream[{{ item.stream }}];
-            document.getElementById("stream" + {{ item.id }}).innerHTML = streamOfEvent;
-            html += "<td><button style='border-radius: 5px; background-color: transparent'><a href='#openModal{{ item.id }}'>Click here</a></button></td></tr>";
-            document.getElementsByClassName("events2017").innerHTML += html;
+                    var hostingDepartment = host[{{ item.host }}];
+                    document.getElementById("hostingDept" + {{ item.id }}).innerHTML = hostingDepartment;
             </script>
-
-
-            {% elif item.start_date.year == 2016 %}
-
-            {% endif %}
-
+            <script>
+                var stream = ["Technical", "Non-Technical"];
+                var streamOfEvent = stream[{{ item.stream }}];
+                document.getElementById("stream" + {{ item.id }}).innerHTML = streamOfEvent;
+            </script>
+            <td><button style="border-radius: 5px; background-color: transparent"><a href="#openModal{{ item.id }}">Click here</a></button></td>
+            </tr>
             <div id="openModal{{ item.id }}" class="modalDialog">
                 <div>	<a href="#close" title="Close" class="close">X</a>
 
@@ -95,6 +109,8 @@
 
                     </div>
             </div>
+            {% endif %}
+
         {% endfor %}
         </tbody>
     </table>

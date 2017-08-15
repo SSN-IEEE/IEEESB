@@ -22,6 +22,8 @@
 .modalDialog:target {
     opacity:1;
     pointer-events: auto;
+	max-height: calc(100vh - 210px);
+    overflow-y: auto;
 }
 .modalDialog > div {
     width: 1000px;
@@ -33,7 +35,7 @@
     background: -moz-linear-gradient(#fff, #fffccf);
     background: -webkit-linear-gradient(#fff, #fffccf);
     background: -o-linear-gradient(#fff, #fffccf);
-	overflow-y: scroll;
+	overflow-y: auto;
 }
 .close {
     background: #606061;

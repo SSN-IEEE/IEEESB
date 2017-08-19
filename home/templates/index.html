@@ -105,9 +105,10 @@ trusted “voice” for engineering, computing, and technology information aroun
                                         <ol>
                                             {% for item in events %}
                                                 <li>
-                                                    <header class="marquee-header"><a style="color: black" href="/upcoming_events"><strong><h1 class="marquee-center">{{ item.name }}</h1></strong></a></header>
+                                                    <header class="marquee-header"><strong><h1 class="marquee-center">{{ item.name }}</h1></strong></header>
                                                 <p class="marquee-center">{{ item.start_date }}</p>
                                                 <p class="marquee-center" id="hosts{{ item.id }}"></p>
+                                                <p>{{ item.note }}</p>
                                                 </li>
                                                 <script>
                                                 var host = ["Department of Information Technology"];

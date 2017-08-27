@@ -103,6 +103,9 @@ trusted “voice” for engineering, computing, and technology information aroun
 									</header>
 									<div class="marquee" style="font-weight: 900;">
                                         <ol>
+                                        {% if not events %}
+                                            <p class="marquee-center">No Upcoming Events. Check after some time.</p>
+                                        {% endif %}
                                             {% for item in events %}
                                                 <li>
                                                     <header class="marquee-header"><strong><h1 class="marquee-center">{{ item.name }}</h1></strong></header>

@@ -27,5 +27,3 @@ def contact(request):
 def gallery_images(request):
     return render(request, 'gallery.html', {'images':gallery.objects.all()})
 
-def event_2(request):
-    return render(request, 'event-2.html')

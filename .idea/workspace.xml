@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="1783cc37-fde3-4c14-b0e5-28d4e1338ff9" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/home/templates/event_page_base.html" afterPath="$PROJECT_DIR$/home/templates/event_page_base.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/home/templates/upcoming_events.html" afterPath="$PROJECT_DIR$/home/templates/upcoming_events.html" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -19,7 +18,7 @@
         <entry file="file://$PROJECT_DIR$/home/templates/upcoming_events.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="216">
-              <caret line="30" column="28" lean-forward="true" selection-start-line="30" selection-start-column="28" selection-end-line="30" selection-end-column="28" />
+              <caret line="30" column="28" lean-forward="false" selection-start-line="30" selection-start-column="28" selection-end-line="30" selection-end-column="28" />
               <folding>
                 <element signature="e#827#854#0#HTML" expanded="true" />
                 <element signature="e#974#1039#0#HTML" expanded="true" />
@@ -32,16 +31,16 @@
       <file leaf-file-name="event_page_base.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/home/templates/event_page_base.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="162">
-              <caret line="31" column="96" lean-forward="false" selection-start-line="31" selection-start-column="96" selection-end-line="31" selection-end-column="96" />
+            <state relative-caret-position="338">
+              <caret line="33" column="42" lean-forward="true" selection-start-line="33" selection-start-column="42" selection-end-line="33" selection-end-column="42" />
               <folding>
                 <element signature="e#417#444#0#HTML" expanded="true" />
                 <element signature="e#604#637#0#HTML" expanded="true" />
                 <element signature="e#756#780#0#HTML" expanded="true" />
                 <element signature="e#919#943#0#HTML" expanded="true" />
                 <element signature="e#1136#1160#0#HTML" expanded="true" />
-                <element signature="e#1374#1407#0#HTML" expanded="true" />
-                <element signature="e#1552#1576#0#HTML" expanded="true" />
+                <element signature="e#1324#1348#0#HTML" expanded="true" />
+                <element signature="e#1647#1671#0#HTML" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -992,7 +991,7 @@
     <entry file="file://$PROJECT_DIR$/home/templates/upcoming_events.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="216">
-          <caret line="30" column="28" lean-forward="true" selection-start-line="30" selection-start-column="28" selection-end-line="30" selection-end-column="28" />
+          <caret line="30" column="28" lean-forward="false" selection-start-line="30" selection-start-column="28" selection-end-line="30" selection-end-column="28" />
           <folding>
             <element signature="e#827#854#0#HTML" expanded="true" />
             <element signature="e#974#1039#0#HTML" expanded="true" />
@@ -1003,16 +1002,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/home/templates/event_page_base.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="31" column="96" lean-forward="false" selection-start-line="31" selection-start-column="96" selection-end-line="31" selection-end-column="96" />
+        <state relative-caret-position="338">
+          <caret line="33" column="42" lean-forward="true" selection-start-line="33" selection-start-column="42" selection-end-line="33" selection-end-column="42" />
           <folding>
             <element signature="e#417#444#0#HTML" expanded="true" />
             <element signature="e#604#637#0#HTML" expanded="true" />
             <element signature="e#756#780#0#HTML" expanded="true" />
             <element signature="e#919#943#0#HTML" expanded="true" />
             <element signature="e#1136#1160#0#HTML" expanded="true" />
-            <element signature="e#1374#1407#0#HTML" expanded="true" />
-            <element signature="e#1552#1576#0#HTML" expanded="true" />
+            <element signature="e#1324#1348#0#HTML" expanded="true" />
+            <element signature="e#1647#1671#0#HTML" expanded="true" />
           </folding>
         </state>
       </provider>

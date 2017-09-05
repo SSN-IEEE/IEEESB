@@ -28,6 +28,8 @@
                <p><strong><span style="font-size: 40px;">Scope</span><br><br></strong> {{ events.scope|safe }}</p>
            {% endif %}
            {% if events.brochure_link != 'NIL' %}
+               <p><strong><span style="font-size: 40px;">Brochure</span><br><br></strong></p>
+
                {% static "assets/images/events" as baseUrl %}
                <img style="height: auto; width: 80%;" src="{{ baseUrl }}/{{ events.brochure_link }}">
            {% endif %}

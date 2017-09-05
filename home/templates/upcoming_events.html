@@ -26,7 +26,12 @@
              <div class="eventsBox">
                  <p style="margin-top: 20px; max-width: 300px; word-wrap:break-word;">{{ event.name }}</p>
                  <p>{{ event.start_date }}</p>
+                 {% if event.registration_link != 'NIL' %}
                  <p>Register <a link="{{ event.registration_link }}">here</a>.</p>
+                 {% endif %}
+                 {% if event.registration_link == 'NIL' %}
+                     <p>On Spot Registration</p>
+                 {% endif %}
                  <a href="{% url 'home:details' event.id %}"><button style="width: 200px; background-color: #ffffff; color: black" class="button">More Info</button></a>
              </div>
              {% empty %}

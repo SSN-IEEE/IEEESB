@@ -1,0 +1,24 @@
+0 - conference
+1 - WS
+2 - GL
+3 - symposium
+4 - meeting
+5 - competition
+
+
+
+HOST
+0 - IT
+1 - CS
+2 - Chemical
+3 - Mechanical
+4 - Bio-Medical
+5 - Mechanical
+6 - Electronic and Communication
+7 - EEE
+8 - Civil 
+9 - common
+
+STREAM
+0-Tech
+1-Non Tech

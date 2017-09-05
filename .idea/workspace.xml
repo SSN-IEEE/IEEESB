@@ -2,13 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1783cc37-fde3-4c14-b0e5-28d4e1338ff9" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/home/templates/event_page_base.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/db.sqlite3" afterPath="$PROJECT_DIR$/db.sqlite3" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/home/static/assets/css/main.css" afterPath="$PROJECT_DIR$/home/static/assets/css/main.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/home/templates/event_page_base.html" afterPath="$PROJECT_DIR$/home/templates/event_page_base.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/home/templates/upcoming_events.html" afterPath="$PROJECT_DIR$/home/templates/upcoming_events.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/home/urls.py" afterPath="$PROJECT_DIR$/home/urls.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/home/views.py" afterPath="$PROJECT_DIR$/home/views.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -23,12 +18,12 @@
       <file leaf-file-name="upcoming_events.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/home/templates/upcoming_events.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="162">
-              <caret line="28" column="82" lean-forward="false" selection-start-line="28" selection-start-column="82" selection-end-line="28" selection-end-column="82" />
+            <state relative-caret-position="216">
+              <caret line="30" column="28" lean-forward="true" selection-start-line="30" selection-start-column="28" selection-end-line="30" selection-end-column="28" />
               <folding>
                 <element signature="e#827#854#0#HTML" expanded="true" />
                 <element signature="e#974#1039#0#HTML" expanded="true" />
-                <element signature="e#1260#1321#0#HTML" expanded="true" />
+                <element signature="e#1485#1546#0#HTML" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -37,14 +32,16 @@
       <file leaf-file-name="event_page_base.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/home/templates/event_page_base.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="230">
-              <caret line="30" column="51" lean-forward="false" selection-start-line="30" selection-start-column="51" selection-end-line="30" selection-end-column="51" />
+            <state relative-caret-position="162">
+              <caret line="31" column="96" lean-forward="false" selection-start-line="31" selection-start-column="96" selection-end-line="31" selection-end-column="96" />
               <folding>
                 <element signature="e#417#444#0#HTML" expanded="true" />
                 <element signature="e#604#637#0#HTML" expanded="true" />
                 <element signature="e#756#780#0#HTML" expanded="true" />
                 <element signature="e#919#943#0#HTML" expanded="true" />
                 <element signature="e#1136#1160#0#HTML" expanded="true" />
+                <element signature="e#1374#1407#0#HTML" expanded="true" />
+                <element signature="e#1552#1576#0#HTML" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -128,7 +125,7 @@
         <entry file="file://$PROJECT_DIR$/home/templates/past_events.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="248">
-              <caret line="86" column="117" lean-forward="true" selection-start-line="85" selection-start-column="32" selection-end-line="86" selection-end-column="117" />
+              <caret line="86" column="117" lean-forward="false" selection-start-line="85" selection-start-column="32" selection-end-line="86" selection-end-column="117" />
               <folding />
             </state>
           </provider>
@@ -987,33 +984,35 @@
     <entry file="file://$PROJECT_DIR$/home/templates/past_events.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="248">
-          <caret line="86" column="117" lean-forward="true" selection-start-line="85" selection-start-column="32" selection-end-line="86" selection-end-column="117" />
+          <caret line="86" column="117" lean-forward="false" selection-start-line="85" selection-start-column="32" selection-end-line="86" selection-end-column="117" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/home/templates/upcoming_events.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="28" column="82" lean-forward="false" selection-start-line="28" selection-start-column="82" selection-end-line="28" selection-end-column="82" />
+        <state relative-caret-position="216">
+          <caret line="30" column="28" lean-forward="true" selection-start-line="30" selection-start-column="28" selection-end-line="30" selection-end-column="28" />
           <folding>
             <element signature="e#827#854#0#HTML" expanded="true" />
             <element signature="e#974#1039#0#HTML" expanded="true" />
-            <element signature="e#1260#1321#0#HTML" expanded="true" />
+            <element signature="e#1485#1546#0#HTML" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/home/templates/event_page_base.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="230">
-          <caret line="30" column="51" lean-forward="false" selection-start-line="30" selection-start-column="51" selection-end-line="30" selection-end-column="51" />
+        <state relative-caret-position="162">
+          <caret line="31" column="96" lean-forward="false" selection-start-line="31" selection-start-column="96" selection-end-line="31" selection-end-column="96" />
           <folding>
             <element signature="e#417#444#0#HTML" expanded="true" />
             <element signature="e#604#637#0#HTML" expanded="true" />
             <element signature="e#756#780#0#HTML" expanded="true" />
             <element signature="e#919#943#0#HTML" expanded="true" />
             <element signature="e#1136#1160#0#HTML" expanded="true" />
+            <element signature="e#1374#1407#0#HTML" expanded="true" />
+            <element signature="e#1552#1576#0#HTML" expanded="true" />
           </folding>
         </state>
       </provider>

@@ -2,15 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1783cc37-fde3-4c14-b0e5-28d4e1338ff9" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/home/static/assets/js/home.js" afterPath="$PROJECT_DIR$/home/static/assets/js/home.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/home/templates/about.html" afterPath="$PROJECT_DIR$/home/templates/about.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/home/templates/contact.html" afterPath="$PROJECT_DIR$/home/templates/contact.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/home/templates/event_page_base.html" afterPath="$PROJECT_DIR$/home/templates/event_page_base.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/home/templates/gallery.html" afterPath="$PROJECT_DIR$/home/templates/gallery.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/home/templates/index.html" afterPath="$PROJECT_DIR$/home/templates/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/home/templates/past_events.html" afterPath="$PROJECT_DIR$/home/templates/past_events.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/home/templates/upcoming_events.html" afterPath="$PROJECT_DIR$/home/templates/upcoming_events.html" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -55,10 +47,10 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/home/templates/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1998">
-              <caret line="111" column="161" lean-forward="true" selection-start-line="111" selection-start-column="161" selection-end-line="111" selection-end-column="161" />
+            <state relative-caret-position="212">
+              <caret line="123" column="106" lean-forward="false" selection-start-line="123" selection-start-column="106" selection-end-line="123" selection-end-column="106" />
               <folding>
-                <element signature="e#7863#7890#0#HTML" expanded="true" />
+                <element signature="e#8144#8171#0#HTML" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -88,7 +80,7 @@
         <entry file="file://$PROJECT_DIR$/home/templates/base.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
-              <caret line="0" column="22" lean-forward="true" selection-start-line="0" selection-start-column="22" selection-end-line="7" selection-end-column="32" />
+              <caret line="0" column="22" lean-forward="false" selection-start-line="0" selection-start-column="22" selection-end-line="7" selection-end-column="32" />
               <folding />
             </state>
           </provider>
@@ -198,8 +190,8 @@
         <option value="$PROJECT_DIR$/home/templates/past_events.html" />
         <option value="$PROJECT_DIR$/home/templates/upcoming_events.html" />
         <option value="$PROJECT_DIR$/home/templates/about.html" />
-        <option value="$PROJECT_DIR$/home/templates/index.html" />
         <option value="$PROJECT_DIR$/home/static/assets/js/home.js" />
+        <option value="$PROJECT_DIR$/home/templates/index.html" />
       </list>
     </option>
   </component>
@@ -691,7 +683,7 @@
         <state relative-caret-position="893">
           <caret line="47" column="46" lean-forward="false" selection-start-line="47" selection-start-column="40" selection-end-line="47" selection-end-column="46" />
           <folding>
-            <element signature="e#7863#7890#0#HTML" expanded="true" />
+            <element signature="e#8144#8171#0#HTML" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -773,7 +765,7 @@
         <state relative-caret-position="361">
           <caret line="19" column="27" lean-forward="true" selection-start-line="19" selection-start-column="27" selection-end-line="19" selection-end-column="27" />
           <folding>
-            <element signature="e#7863#7890#0#HTML" expanded="true" />
+            <element signature="e#8144#8171#0#HTML" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -831,7 +823,7 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#7863#7890#0#HTML" expanded="true" />
+            <element signature="e#8144#8171#0#HTML" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -994,14 +986,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/home/templates/base.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="22" lean-forward="true" selection-start-line="0" selection-start-column="22" selection-end-line="7" selection-end-column="32" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/home/templates/about.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="108">
@@ -1026,12 +1010,20 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/home/templates/base.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="22" lean-forward="false" selection-start-line="0" selection-start-column="22" selection-end-line="7" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/home/templates/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1998">
-          <caret line="111" column="161" lean-forward="true" selection-start-line="111" selection-start-column="161" selection-end-line="111" selection-end-column="161" />
+        <state relative-caret-position="212">
+          <caret line="123" column="106" lean-forward="false" selection-start-line="123" selection-start-column="106" selection-end-line="123" selection-end-column="106" />
           <folding>
-            <element signature="e#7863#7890#0#HTML" expanded="true" />
+            <element signature="e#8144#8171#0#HTML" expanded="true" />
           </folding>
         </state>
       </provider>

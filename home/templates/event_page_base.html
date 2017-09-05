@@ -1,5 +1,14 @@
 {% extends 'base.html' %}
 {% load staticfiles %}
+{% block homelink %}../../{% endblock %}
+{% block homelink1 %}../../{% endblock %}
+{% block upcoming %}../../upcoming_events{% endblock %}
+{% block upcoming1 %}../../upcoming_events{% endblock %}
+{% block past %}../../past_events{% endblock %}
+{% block about %}../../about{% endblock %}
+{% block gallery%}../../gallery{% endblock %}
+{% block contact %}../../contact{% endblock %}
+{% block event_active %}class = "active"{% endblock %}
 {% block content %}
 
     <section style="background-repeat: no-repeat; opacity: 0.65; background-size: cover; background-image: url('{% static 'assets/images/back3.jpg' %}');

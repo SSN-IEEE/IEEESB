@@ -1,0 +1,35 @@
+{% extends 'base.html' %}
+{% load staticfiles %}
+{% block content %}
+
+    <section style="background-repeat: no-repeat; opacity: 0.65; background-size: cover; background-image: url('{% static 'assets/images/back3.jpg' %}');
+     " id="banner">
+                    <div class="inner">
+
+						<header>
+							<h2>{{ events.name }}</h2>
+						</header>
+					</div>
+
+    </section>
+    <article id="main">
+       <header style="margin-top: -400px;" class="special container">
+
+           {% if events.event_photo != 'NIL' %}
+                {% static "assets/images/events" as baseUrl %}
+               <img style="height: auto; width: 80%;" src="{{ baseUrl }}/{{ events.event_photo }}">
+           {% endif %}
+            <br><br>
+           <p><strong><span style="font-size: 40px;">{{ events.start_date }}</span><br><br></strong></p>
+           {% if events.registration_link != 'NIL' %}
+               <p><strong><span style="font-size: 30px;">Register <a target="_blank" href="{{ events.registration_link }}">here.</a></span><br><br></p>
+           {% endif %}
+           {% if events.scope != 'NIL' %}
+               <p><strong><span style="font-size: 40px;">Scope</span><br><br></strong> {{ events.scope|safe }}</p>
+           {% endif %}
+           {% if events.note != 'NIL' %}
+               <p><strong><span style="font-size: 40px;">Other Information</span></strong><br><br> {{ events.note|safe }}</p>
+           {% endif %}
+       </header>
+    </article>
+{% endblock %}

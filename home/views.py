@@ -1,6 +1,5 @@
 from datetime import date, datetime
-
-from django.shortcuts import render, render_to_response
+from django.shortcuts import render, render_to_response, get_object_or_404
 from .models import events
 from .models import gallery
 # Create your views here.
@@ -27,3 +26,6 @@ def contact(request):
 def gallery_images(request):
     return render(request, 'gallery.html', {'images':gallery.objects.all()})
 
+def event_page_base(request, event_id):
+    event = get_object_or_404(events, pk=event_id)
+    return render(request, 'event_page_base.html', {'events':event})

@@ -11,7 +11,16 @@
     margin-bottom: 16px;
     padding: 0 8px;
 }
-
+.eventsBox{
+	height: 300px;
+	width: 300px;
+	background-color: #31efbc;
+	color: #FFFFFF;
+	border-radius: 16px;
+	display: inline-block;
+	margin: 10px 10px 10px 10px;
+	font-weight: 900;
+}
 /* Display the columns below each other instead of side by side on small screens */
 @media (max-width: 650px) {
     .column {

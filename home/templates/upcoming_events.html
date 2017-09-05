@@ -19,10 +19,19 @@
 						</header>
 					</div>
 
-    </section
+    </section>
       <article id="main">
-      <header class="special container">
-         No upcoming events as of now. Please check our site after some time.
+      <header style="margin-top: -400px;" class="special container">
+         {% for event in events %}
+             <div class="eventsBox">
+                 <p style="margin-top: 20px; max-width: 300px; word-wrap:break-word;">{{ event.name }}</p>
+                 <p>{{ event.start_date }}</p>
+                 <p>Register <a link="{{ event.registration_link }}">here</a>.</p>
+                 <a href="{% url 'home:details' event.id %}"><button style="width: 200px; background-color: #ffffff; color: black" class="button">More Info</button></a>
+             </div>
+             {% empty %}
+             No Events as of now. Please check after some time.
+         {% endfor %}
       </header>
     </article>
 {% endblock %}

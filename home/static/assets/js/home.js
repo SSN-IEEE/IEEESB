@@ -1,6 +1,6 @@
 $('.marquee').marquee({
-    duration: 3000,
-    gap: 50,
+    duration: 5000,
+    gap: 100,
     delayBeforeStart: 50,
     direction: 'up',
     duplicate: true,

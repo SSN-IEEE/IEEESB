@@ -2,6 +2,7 @@
 {% load staticfiles %}
 {% block homelink %}/{% endblock %}
 {% block homelink1 %}/{% endblock %}
+{% block homelink2 %}/{% endblock %}
 {% block upcoming %}/upcoming_events{% endblock %}
 {% block upcoming1 %}/upcoming_events{% endblock %}
 {% block past %}/past_events{% endblock %}
@@ -108,10 +109,14 @@ trusted “voice” for engineering, computing, and technology information aroun
                                         {% endif %}
                                             {% for item in events %}
                                                 <li>
-                                                    <header class="marquee-header"><strong><h1 class="marquee-center">{{ item.name }}</h1></strong></header>
+                                                    <header class="marquee-header"><strong><h1 class="marquee-center"><a href="{% url 'home:details' item.id %}">{{ item.name }}</a></h1></strong></header>
                                                 <p class="marquee-center">{{ item.start_date }}</p>
                                                 <p class="marquee-center" id="hosts{{ item.id }}"></p>
+                                                    {% if item.registration_link != 'NIL' %}
                                                     <p class="marquee-center">Register here: {{ item.registration_link }}</p>
+                                                    {% else %}
+                                                         <p class="marquee-center">On Spot Registration.</p>
+                                                    {% endif %}
                                                 </li>
                                                 <script>
                                                 var host = ["Department of Information Technology"];

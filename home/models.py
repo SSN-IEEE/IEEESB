@@ -22,7 +22,7 @@ class events(models.Model):
     note = models.CharField(max_length=1000, default='NIL')
 
     def __str__(self):
-        return 'Name ' + self.name
+        return 'Name :' + self.name
 
 class gallery(models.Model):
     photo_number = models.IntegerField(default=-1)

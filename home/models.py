@@ -21,6 +21,9 @@ class events(models.Model):
     registration_fee_non_ieee = models.FloatField(default=-1)
     note = models.CharField(max_length=1000, default='NIL')
 
+    def __str__(self):
+        return 'Name ' + self.name
+
 class gallery(models.Model):
     photo_number = models.IntegerField(default=-1)
     title = models.CharField(max_length=100, default='NIL')

@@ -1,6 +1,6 @@
-<<<<<<< HEAD
-# IEEE-SB
-=======
-# IEEESB
-Code for Student Branch
->>>>>>> a77ad32dac6b39a965f6438adac8c28d6f2aa0ed
+<center>
+	<h1>SSN IEEE Student Chapter</h1>
+	<br>
+	<p>This is the source code of the IEEE Student Branch Website of S.S.N College of Engineering, Chennai, Tamil Nadu, India.</p>
+	<p>The live site can be found here: <a href="https://ssnieee.herokuapp.com">SSN IEEE Student Branch</a></p>
+</center>

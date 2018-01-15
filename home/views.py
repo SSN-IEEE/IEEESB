@@ -9,7 +9,6 @@ def index(request):
     return render_to_response('index.html', {'events': event})
 
 def about(request):
-
     return render_to_response('about.html', {'events' : events.objects.all()})
 
 def past_events(request):

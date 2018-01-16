@@ -19,7 +19,7 @@ class events(models.Model):
     registration_link = models.CharField(max_length=1000, default='NIL')
     registration_fee_ieee = models.FloatField(default=-1)
     registration_fee_non_ieee = models.FloatField(default=-1)
-    note = models.CharField(max_length=1000, default='NIL')
+    note = models.CharField(max_length=10000, default='NIL')
 
     def __str__(self):
         return 'Name :' + self.name
